@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Sreeharsha Udayashankar
 
-You can use the [editor on GitHub](https://github.com/sreeharshau/personal_website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a software engineer with research interests lying primarily in the Systems domain. I am currently part of a research based master's program at the University of Waterloo working with the Waterloo Advanced Systems Lab (https://wasl.uwaterloo.ca/). Prior to this, I have been a Design Engineer at Advanced Micro Devices (AMD) for 2.5 years and received my undergraduate degree in Computer Science from PES University in Bangalore, India.
 
 ### Markdown
 
