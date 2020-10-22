@@ -62,7 +62,7 @@ B.R. Hills (_Karnataka, India_)
 
 ![Tadiandamol_2019](Tadiandamol_2019.jpg)
 
-**Dhauladhar Range** (_Himachal Pradesh, India)
+**Dhauladhar Range** (_Himachal Pradesh, India_)
 
 ![Dhauladhar_2019](Triund_2019.jpg)
 
