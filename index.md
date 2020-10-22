@@ -1,12 +1,31 @@
-## Sreeharsha Udayashankar
+## About Me
 
 ![Title Image](Title_Image.jpg)
 
-I am a software engineer with research interests lying primarily in the Systems domain. I am currently part of a research based master's program at the University of Waterloo working with the Waterloo Advanced Systems Lab ([WASL](https://wasl.uwaterloo.ca/)). Prior to this, I have been a Design Engineer at Advanced Micro Devices (AMD) for 2.5 years and received my undergraduate degree in Computer Science from PES University in Bangalore, India.
+I am a computer science researcher whose interests lie primarily in the Systems domain. I have been a part of projects in Cloud Computing, Distributed Systems and Computer Architecture. I have experience developing systems in numerous languages such as C, C++, Java, JavaScript and Python along with limited experience in Solidity. My current research is focused on using the P4 programming language to aceelerate components in existing large scale systems. 
+
+I am currently part of a research based master's program at the University of Waterloo. I am a part of the Waterloo Advanced Systems Lab ([WASL](https://wasl.uwaterloo.ca/)) and my supervisor is [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html) . Prior to this, I have been a Design Engineer at Advanced Micro Devices (AMD) for 2.5 years and received my undergraduate degree in Computer Science from PES University in Bangalore, India.
 
 Full Resume: [Resume](https://github.com/sreeharshau/about_me/blob/gh-pages/Sreeharsha_Resume.pdf)
 
-### Markdown
+## Side Projects
+
+In my spare time, I like to develop applications using a variety of lagnuages and tools to keep my skills sharp. Some of these projects and their source code are showcased below this section.
+
+### The Crypto Lottery
+
+This project consists of an Ethereum-based back end and a front end powered by React.js. The objective of this project was to build a lottery application where users register using ether and stand a chance to win the Jackpot. The Jackpot is the prize pool consisting of contributions from all participants with the winner being chosen at regular time instervals. A participants chances also increase with the ether he contributes up to a certain limit.
+
+#### Source Repositories:
+- [Crypto Lottery Frontend](https://github.com/sreeharshau/EthereumLotteryApplication_ReactUI)
+- [Crypto Lottery Backend](https://github.com/sreeharshau/EthereumLottery_SmartContract)
+
+#### Project Showcase
+
+Here is a sneak peek of the project in action! It has been deployed on a test ethereum network.
+
+![Main Screen](https://github.com/sreeharshau/EthereumLotteryApplication_ReactUI/blob/master/LotteryApplication_InformationScreen.png)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
