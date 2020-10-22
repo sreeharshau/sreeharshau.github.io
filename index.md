@@ -7,6 +7,7 @@ I am a computer science researcher whose interests lie primarily in the Systems 
 I am currently part of a research based master's program at the University of Waterloo. I am a part of the Waterloo Advanced Systems Lab ([WASL](https://wasl.uwaterloo.ca/)) and my supervisor is [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html) . Prior to this, I have been a Design Engineer at Advanced Micro Devices (AMD) for 2.5 years and received my undergraduate degree in Computer Science from PES University in Bangalore, India.
 
 Full Resume: [Resume](https://github.com/sreeharshau/about_me/blob/gh-pages/Sreeharsha_Resume.pdf)
+LinkedIn: [Sreeharsha Udayashankar](https://www.linkedin.com/in/sreeharshau/)
 
 ## Side Projects
 
@@ -17,14 +18,17 @@ In my spare time, I like to develop applications using a variety of lagnuages an
 This project consists of an Ethereum-based back end and a front end powered by React.js. The objective of this project was to build a lottery application where users register using ether and stand a chance to win the Jackpot. The Jackpot is the prize pool consisting of contributions from all participants with the winner being chosen at regular time instervals. A participants chances also increase with the ether he contributes up to a certain limit.
 
 #### Source Repositories:
-- [Crypto Lottery Frontend](https://github.com/sreeharshau/EthereumLotteryApplication_ReactUI)
-- [Crypto Lottery Backend](https://github.com/sreeharshau/EthereumLottery_SmartContract)
+
+[Crypto Lottery Frontend](https://github.com/sreeharshau/EthereumLotteryApplication_ReactUI)
+[Crypto Lottery Backend](https://github.com/sreeharshau/EthereumLottery_SmartContract)
 
 #### Project Showcase
 
 Here is a sneak peek of the project in action! It has been deployed on a test ethereum network.
 
-![Main Screen](https://github.com/sreeharshau/EthereumLotteryApplication_ReactUI/blob/master/LotteryApplication_InformationScreen.png)
+![Main Screen](LotteryApplication_InformationScreen.png)
+
+### The Emoji Memory Game
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
