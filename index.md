@@ -54,7 +54,7 @@ I enjoy running, cycling and hiking in my spare time. I love travelling to and e
 ![Algonquin Image 1](Algonquin_2020.jpg)
 ![Algonquin_Image_2](Algonquin_2020_2.jpg)
 
-B.R. Hills (_Karnataka, India_)
+**B.R. Hills** (_Karnataka, India_)
 
 ![BRHills_2019](BRHills_2019.jpg)
 
