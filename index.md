@@ -1,5 +1,3 @@
-## About Me
-
 ![Title Image](Title_Image.jpg)
 
 I am a computer science researcher whose interests lie primarily in the Systems domain. I have been a part of projects in Cloud Computing, Distributed Systems and Computer Architecture.My current research is focused on using the P4 programming language to aceelerate components in existing large scale systems. 
