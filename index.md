@@ -16,7 +16,7 @@ LinkedIn: [Sreeharsha Udayashankar](https://www.linkedin.com/in/sreeharshau/)
 
 ## Side Projects
 
-In my spare time, I like to develop applications using a variety of lagnuages and tools to keep my skills sharp. Some of these projects and their source code are showcased below this section.
+In my spare time, I like to develop applications using a variety of lagnuages and tools to keep my skills sharp. Some of these projects and their source code are showcased in this section.
 
 ### The Crypto Lottery
 
@@ -30,10 +30,14 @@ This project consists of an Ethereum-based back end and a front end powered by R
 
 - [Crypto Lottery Backend](https://github.com/sreeharshau/EthereumLottery_SmartContract)
 
+
 ### The Emoji Memory Game
 
 This project is a simple memory game using emojis. It was developed using Python 3.6 and is powered by PyGame.
 
+![Emoji Memory Game Peek](MemoryGame_CardsActive.png)
+
+**Source Code**: [Emoji Memory Game[(https://github.com/sreeharshau/memory-game-python)
 
 
 
