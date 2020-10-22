@@ -16,8 +16,8 @@ LinkedIn: [Sreeharsha Udayashankar](https://www.linkedin.com/in/sreeharshau/)
 
 ## Publications
 
-- **Falcon - Low Latency Network Accelerated Scheduling** (_To be published in ACM EuroP4 2020_)
-- **Gaming
+- **Falcon - Low Latency Network Accelerated Scheduling** (To be published in ACM EuroP4 2020) - _Ibrahim Kettaneh, Sreeharsha Udayashankar, Ashraf Abdel-Hadi and Samer Al-Kiswany_
+- **Gaming Modeling and Projections - The Impact of CPU Performance** (AMD Asia Tech Conference 2019) - _Sreeharsha Udayashankar, Saumya Chandra and Don Cherepacha_
 
 ## Side Projects
 
