@@ -1,5 +1,7 @@
 ## Sreeharsha Udayashankar
 
+![Title Image](Title_Image.jpg)
+
 I am a software engineer with research interests lying primarily in the Systems domain. I am currently part of a research based master's program at the University of Waterloo working with the Waterloo Advanced Systems Lab ([WASL](https://wasl.uwaterloo.ca/)). Prior to this, I have been a Design Engineer at Advanced Micro Devices (AMD) for 2.5 years and received my undergraduate degree in Computer Science from PES University in Bangalore, India.
 
 Full Resume: [Resume](https://github.com/sreeharshau/about_me/blob/gh-pages/Sreeharsha_Resume.pdf)
