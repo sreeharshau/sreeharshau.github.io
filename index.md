@@ -2,11 +2,14 @@
 
 ![Title Image](Title_Image.jpg)
 
-I am a computer science researcher whose interests lie primarily in the Systems domain. I have been a part of projects in Cloud Computing, Distributed Systems and Computer Architecture. I have experience developing systems in numerous languages such as C, C++, Java, JavaScript and Python along with limited experience in Solidity. My current research is focused on using the P4 programming language to aceelerate components in existing large scale systems. 
+I am a computer science researcher whose interests lie primarily in the Systems domain. I have been a part of projects in Cloud Computing, Distributed Systems and Computer Architecture.My current research is focused on using the P4 programming language to aceelerate components in existing large scale systems. 
 
-I am currently part of a research based master's program at the University of Waterloo. I am a part of the Waterloo Advanced Systems Lab ([WASL](https://wasl.uwaterloo.ca/)) and my supervisor is [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html) . Prior to this, I have been a Design Engineer at Advanced Micro Devices (AMD) for 2.5 years and received my undergraduate degree in Computer Science from PES University in Bangalore, India.
+I am currently enrolled in a research based masters program in Computer Science at the University of Waterloo. I am a part of the Waterloo Advanced Systems Lab ([WASL](https://wasl.uwaterloo.ca/)) and my supervisor is [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html) . Prior to this, I have been a Design Engineer at Advanced Micro Devices (AMD) for 2.5 years. I received my undergraduate degree in Computer Science from PES University in Bangalore, India and have been supervised by [Dr. K.V Subramaniam](https://faculty.pes.edu/p10213) and [Prof. Phalachandra](https://faculty.pes.edu/p10024). I was a research assistant at [CCBD](http://research.pes.edu/cloud-computing-big-data/) during my time there.
+
+I have experience developing systems in numerous languages such as C, C++, Java, JavaScript and Python along with limited experience in Solidity.
 
 Full Resume: [Resume](https://github.com/sreeharshau/about_me/blob/gh-pages/Sreeharsha_Resume.pdf)
+
 LinkedIn: [Sreeharsha Udayashankar](https://www.linkedin.com/in/sreeharshau/)
 
 ## Side Projects
@@ -20,6 +23,7 @@ This project consists of an Ethereum-based back end and a front end powered by R
 #### Source Repositories:
 
 [Crypto Lottery Frontend](https://github.com/sreeharshau/EthereumLotteryApplication_ReactUI)
+
 [Crypto Lottery Backend](https://github.com/sreeharshau/EthereumLottery_SmartContract)
 
 #### Project Showcase
