@@ -20,19 +20,17 @@ In my spare time, I like to develop applications using a variety of lagnuages an
 
 This project consists of an Ethereum-based back end and a front end powered by React.js. The objective of this project was to build a lottery application where users register using ether and stand a chance to win the Jackpot. The Jackpot is the prize pool consisting of contributions from all participants with the winner being chosen at regular time instervals. A participants chances also increase with the ether he contributes up to a certain limit.
 
-#### Source Repositories:
-
 [Crypto Lottery Frontend](https://github.com/sreeharshau/EthereumLotteryApplication_ReactUI)
 
 [Crypto Lottery Backend](https://github.com/sreeharshau/EthereumLottery_SmartContract)
 
-#### Project Showcase
-
-Here is a sneak peek of the project in action! It has been deployed on a test ethereum network.
-
 ![Main Screen](LotteryApplication_InformationScreen.png)
 
 ### The Emoji Memory Game
+
+This project is a simple memory game using emojis. It was developed using Python 3.6 and is powered by PyGame.
+
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
