@@ -19,7 +19,7 @@ LinkedIn: [Sreeharsha Udayashankar](https://www.linkedin.com/in/sreeharshau/)
 
 ## Side Projects
 
-In my spare time, I like to develop applications using a variety of lagnuages and tools to keep my skills sharp. Some of these projects and their source code are showcased in this section.
+In my spare time, I like to develop applications using a variety of languages and tools to keep my skills sharp. Some of these projects and their source code are showcased in this section.
 
 ### The Crypto Lottery
 
@@ -44,3 +44,14 @@ This project is a simple memory game using emojis. It was developed using Python
 
 **Source Code**: 
 [Emoji Memory Game](https://github.com/sreeharshau/memory-game-python)
+
+## Hobbies and other Interests
+
+I enjoy running, cycling and hiking in my spare time. I love travelling to and experiencing new places. If there is a place you think I should visit, let me know! Here are a few images I've shot using my phone on some of my hikes:
+
+Algonquin Provincial Park (_Ontario, Canada_)
+
+![Algonquin Image 1](Algonquin_2020.jpg)
+![Algonquin_Image_2](Algonquin_2020_2.jpg)
+
+
