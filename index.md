@@ -36,8 +36,20 @@ The Jackpot is the prize pool consisting of contributions from all participants 
 - [Crypto Lottery Backend](https://github.com/sreeharshau/EthereumLottery_SmartContract)
 
 
-### The Emoji Memory Game
+### Python Game Collection
 
+I have developed a few games in Python 3.6 using the PyGame library. Some of them are showcased below.
+
+#### Snake
+This project is my implementation of the popular game Snake using Python 3.7 and PyGame.
+
+![Snake_Game](Snake_TitleImage.jpg)
+
+**Source Code**: 
+[Snake](https://github.com/sreeharshau/snake-python)
+
+
+#### Emoji Memory Game
 This project is a simple memory game using emojis. It was developed using Python 3.6 and is powered by PyGame.
 
 ![Emoji Memory Game Peek](MemoryGame_CardsActive.png)
