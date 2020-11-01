@@ -23,9 +23,9 @@ In my spare time, I like to develop applications using a variety of languages an
 
 ### The Crypto Lottery
 
-This project consists of an Ethereum-based back end and a front end powered by React.js. The objective of this project was to build a lottery application where users register using ether and stand a chance to win the Jackpot. 
+This project consists of an Ethereum-based back end and a front end powered by React.js. The objective of this project was to build a lottery application where users register using Ether and stand a chance to win the Jackpot. 
 
-The Jackpot is the prize pool consisting of contributions from all participants with the winner being chosen at regular time instervals. A participants chances also increase with the ether he contributes up to a certain limit.
+The Jackpot is the prize pool consisting of contributions from all participants with the winner being chosen at regular time intervals. A participants chances also increase with the Ether they contribute up to a certain limit.
 
 ![Main Screen](LotteryApplication_InformationScreen.png)
 
