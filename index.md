@@ -14,7 +14,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 
 ## Publications
 
-- **Falcon - Low Latency Network Accelerated Scheduling** (To be published in ACM EuroP4 2020) - _Ibrahim Kettaneh, Sreeharsha Udayashankar, Ashraf Abdel-Hadi, Robin Grosman and Samer Al-Kiswany_
+- **Falcon - Low Latency Network Accelerated Scheduling** (To be published in ACM EuroP4 2020) - _Ibrahim Kettaneh, Sreeharsha Udayashankar, Ashraf Abdel-Hadi, Robin Grosman and Samer Al-Kiswany_ [PDF](https://cs.uwaterloo.ca/~alkiswan/papers/Falcon-EuroP420.pdf)
 - **Gaming Modeling and Projections - The Impact of CPU Performance** (AMD Asia Tech Conference 2019) - _Sreeharsha Udayashankar, Saumya Chandra and Don Cherepacha_
 
 ## Side Projects
