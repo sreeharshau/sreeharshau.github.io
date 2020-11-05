@@ -8,7 +8,7 @@ I received my undergraduate degree in Computer Science from PES University in Ba
 
 I have experience developing systems in numerous languages such as C, C++, Java, JavaScript and Python along with limited experience in Solidity.
 
-**Complete Resume**: [Resume](https://github.com/sreeharshau/about_me/blob/gh-pages/Sreeharsha_Resume.pdf)
+**Complete Resume**: [Resume](https://sreeharshau.github.io/Sreeharsha_Resume.pdf)
 
 **LinkedIn**: [Sreeharsha Udayashankar](https://www.linkedin.com/in/sreeharshau/)
 
