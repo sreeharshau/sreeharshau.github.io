@@ -7,7 +7,7 @@ I am a computer science researcher whose interests lie primarily in the Systems 
 
 I am enrolled in the PhD program in Computer Science at the University of Waterloo as a part of the Waterloo Advanced Systems Lab ([WASL](https://wasl.uwaterloo.ca/)). My supervisor is [Dr. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html). Prior to this, I was enrolled in the research-based master's program at Waterloo from 2019-2021 and I have been a Design Engineer at Advanced Micro Devices (AMD) from 2017-2019. 
 
-I received my master's degree in Computer Science from the University of Waterloo in 2021, working under the supervision of  [Dr. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html). I received my undergraduate degree in Computer Science from PES University in Bangalore, India and have been supervised by [Dr. K.V Subramaniam](https://faculty.pes.edu/p10213) and [Prof. Phalachandra](https://faculty.pes.edu/p10024). I was a research assistant at [CCBD](http://research.pes.edu/cloud-computing-big-data/) during my time there.
+I received my master's degree in Computer Science from the University of Waterloo in 2021, working under the supervision of  [Dr. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html). I received my undergraduate degree in Computer Science from PES University in Bangalore, India and have been supervised by [Dr. K.V Subramaniam](https://www.linkedin.com/in/kalsubra/?originalSubdomain=in) and [Dr. Phalachandra](https://staff.pes.edu/nm1313). I was a research assistant at [CCBD](http://research.pes.edu/cloud-computing-big-data/) during my time there.
 
 I have experience developing systems in numerous languages such as C, C++, Java, JavaScript and Python along with limited experience in Solidity.
 
