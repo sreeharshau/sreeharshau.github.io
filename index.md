@@ -37,10 +37,10 @@ Clips of an agent trained using MuZero playing the game can be found below:
 
 ![MuZero_GIF_1](MuZero_Mario_GIF_1.gif) ![MuZero_GIF_2](MuZero_Mario_GIF_2.gif) ![MuZero_GIF_3](MuZero_Mario_GIF_3.gif) ![MuZero_GIF_4](MuZero_Mario_GIF_4.gif)
 
-**Source Code**
+**Details**
 
 - [Repository Link](https://github.com/sreeharshau/muzero-super-mario-bros)
-- [Evaluation Report](https://github.com/sreeharshau/muzero-super-mario-bros/blob/main/Evaluating_MuZero_Super_Mario_Bros.pdf)
+- [Evaluation Report](Evaluating_MuZero_Super_Mario_Bros.pdf)
 
 ### The Crypto Lottery
 
