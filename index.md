@@ -28,7 +28,7 @@ In my spare time, I like to develop applications using a variety of languages an
 
 ### MuZero on Super Mario Bros
 
-I have attempted to evaluate MuZero, an algorithm for deep learning published by Google Deepmind in 2019, against Deep-Q-Networks with Double-Q-Learning, the state of the art model free algorithm using the game Super Mario Bros. The system architectural diagram has been shown below:
+I have attempted to evaluate MuZero, an algorithm for deep learning published by Google Deepmind in 2019, against Deep-Q-Networks with Double-Q-Learning, the state of the art model free algorithm. I have compared their performance using the game Super Mario Bros. The system architectural diagram has been shown below:
 
 ![MuZero_Arch](MuZero_Architecture.jpg)
 
