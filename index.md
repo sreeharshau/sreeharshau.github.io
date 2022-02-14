@@ -77,8 +77,8 @@ This project is a simple memory game using emojis. It was developed using Python
 I enjoy running, cycling and hiking in my spare time. I love travelling to and experiencing new places. If there is a place you think I should visit, let me know! Here are a few images I've shot using my phone on some of my hikes:
 
 **Bruce Peninsula National Park** (_Ontario, Canada_)
-![Bruce_Grotto](Grotto_Bruce.jpg)
 ![Bruce_Flowerpot](Flowerpot_Bruce.jpg)
+![Bruce_Grotto](Grotto_Bruce.jpg)
 
 **Algonquin Provincial Park** (_Ontario, Canada_)
 
