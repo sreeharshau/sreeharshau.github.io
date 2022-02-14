@@ -1,9 +1,9 @@
 ![Title Image](Title_Image.jpg)
 
 I am a computer science researcher whose interests lie primarily in the Systems domain. I have been a part of projects in Cloud Computing, Distributed Systems and Computer Architecture. My current research is focused on the following areas:
-  - Using recent advances such as RDMA and programmable P4 hardware to accelerate large-scale system performance
-  - Analyzing the impact of networking failures on large-scale software systems
-  - Analysis of current serverless computing infrastructure to identify performance bottlenecks and optimization opportunities
+  - Utilizing recent advances such as _RDMA_ and _Programmable Switches (P4)_ to accelerate large-scale system performance
+  - Analyzing the impact of _Networking Failures_ on large-scale software systems
+  - Analysis of modern-day _Serverless Computing_ infrastructure to identify performance bottlenecks and optimization opportunities
 
 I am enrolled in the PhD program in Computer Science at the University of Waterloo as a part of the Waterloo Advanced Systems Lab ([WASL](https://wasl.uwaterloo.ca/)). My supervisor is [Dr. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html). Prior to this, I was enrolled in the research-based master's program at Waterloo from 2019-2021 and I have been a Design Engineer at Advanced Micro Devices (AMD) from 2017-2019. 
 
