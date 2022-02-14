@@ -23,6 +23,17 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 
 In my spare time, I like to develop applications using a variety of languages and tools to keep my skills sharp. Some of these projects and their source code are showcased in this section.
 
+### MuZero on Super Mario Bros
+
+This project attempts to evaluate MuZero, an algorithm for deep learning published by Google Deepmind in 2019, against Deep-Q-Networks with Double-Q-Learning, the state of the art model free algorithm using the game Super Mario Bros. Here are a few clips of a trained MuZero agent playing the game:
+
+![Muzero_Mario_GIF_1](https://github.com/sreeharshau/muzero-super-mario-bros/blob/main/agent01_623_3196(1).gif) ![MuZero_Mario_GIF_2](https://github.com/sreeharshau/muzero-super-mario-bros/blob/main/agent01_754_3191(1).gif) ![MuZero_Mario_GIF_3](https://github.com/sreeharshau/muzero-super-mario-bros/blob/main/agent01_356_1420(1).gif) ![MuZero_Mario_GIF_4](https://github.com/sreeharshau/muzero-super-mario-bros/blob/main/agent01_19_359(1).gif) 
+
+**Source Code**
+
+- [Repository Link](https://github.com/sreeharshau/muzero-super-mario-bros)
+- [Evaluation Report](https://github.com/sreeharshau/muzero-super-mario-bros/blob/main/Evaluating_MuZero_Super_Mario_Bros.pdf)
+
 ### The Crypto Lottery
 
 This project consists of an Ethereum-based back end and a front end powered by React.js. The objective of this project was to build a lottery application where users register using Ether and stand a chance to win the Jackpot. 
