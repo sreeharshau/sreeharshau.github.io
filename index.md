@@ -11,7 +11,7 @@ I received my master's degree in Computer Science from the University of Waterlo
 
 I have experience developing systems in numerous languages such as C, C++, Java, JavaScript and Python along with limited experience in Solidity.
 
-**Complete Resume**: [Resume](https://sreeharshau.github.io/Sreeharsha_Resume.pdf)
+**Complete Resume**: [Resume](https://sreeharshau.github.io/Sreeharsha_Resume_2022.pdf)
 
 **LinkedIn**: [Sreeharsha Udayashankar](https://www.linkedin.com/in/sreeharshau/)
 
