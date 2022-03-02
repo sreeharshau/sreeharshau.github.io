@@ -1,4 +1,4 @@
-![Title Image](Title_Image.jpg)
+![Title Image](Title_Image_2.jpg)
 
 I am a computer science researcher whose interests lie primarily in the Systems domain. I have been a part of projects in Cloud Computing, Distributed Systems and Computer Architecture. My current research is focused on the following areas:
   - Utilizing recent advances such as _RDMA_ and _Programmable Switches (P4)_ to accelerate large-scale system performance
