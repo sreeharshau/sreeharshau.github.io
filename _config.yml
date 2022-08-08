@@ -4,3 +4,4 @@ description: Welcome to my personal page!
 plugins:
   - jekyll-seo-tag
 google_analytics: UA-181067473-1
+markdown: gfm
