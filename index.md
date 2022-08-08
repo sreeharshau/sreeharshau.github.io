@@ -31,12 +31,16 @@ In my spare time, I like to develop applications using a variety of languages an
 
 I have attempted to evaluate MuZero, an algorithm for deep learning published by Google Deepmind in 2019, against Deep-Q-Networks with Double-Q-Learning, the state of the art model free algorithm. I have compared their performance using the game Super Mario Bros. The system architectural diagram has been shown below:
 
-![MuZero_Arch](MuZero_Architecture.jpg)
+  <p align="center">
+    <img src="MuZero_Architecture.jpg">
+  </p>
 
 
 Clips of an agent trained using MuZero playing the game can be found below:
 
-![MuZero_GIF_1](MuZero_Mario_GIF_1.gif) ![MuZero_GIF_2](MuZero_Mario_GIF_2.gif) ![MuZero_GIF_3](MuZero_Mario_GIF_3.gif) ![MuZero_GIF_4](MuZero_Mario_GIF_4.gif)
+|     Training GIF 1 (_Level Failure_)      |     Training GIF 2 (_Level Failure_)      |  Training GIF 3 ( _Level Complete_ )    | Training GIF 4 ( _Level Complete_ )    |
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+| ![MuZero_GIF_1](MuZero_Mario_GIF_1.gif) | ![MuZero_GIF_2](MuZero_Mario_GIF_2.gif) | ![MuZero_GIF_3](MuZero_Mario_GIF_3.gif) | ![MuZero_GIF_4](MuZero_Mario_GIF_4.gif) |
 
 **Details**
 
@@ -61,23 +65,15 @@ The Jackpot is the prize pool consisting of contributions from all participants 
 ### Python Game Collection
 
 I have developed a few games in Python 3.6 using the PyGame library. Some of them are showcased below.
+| Snake    | Memory Game    |
+:-------------------------:|:-------------------------:
+| ![Snake_Game](Snake_TitleImage.jpg) | ![Emoji Memory Game Peek](MemoryGame_CardsActive.png) |
 
-#### Snake
-This project is my implementation of the popular game Snake using Python 3.7 and PyGame.
+**Source Code**
 
-![Snake_Game](Snake_TitleImage.jpg)
+ - [Snake](https://github.com/sreeharshau/snake-python)
 
-**Source Code**: 
-[Snake](https://github.com/sreeharshau/snake-python)
-
-
-#### Emoji Memory Game
-This project is a simple memory game using emojis. It was developed using Python 3.6 and is powered by PyGame.
-
-![Emoji Memory Game Peek](MemoryGame_CardsActive.png)
-
-**Source Code**: 
-[Emoji Memory Game](https://github.com/sreeharshau/memory-game-python)
+ - [Emoji Memory Game](https://github.com/sreeharshau/memory-game-python)
 
 ## Hobbies
 
