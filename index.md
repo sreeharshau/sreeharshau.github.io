@@ -38,7 +38,7 @@ I have attempted to evaluate MuZero, an algorithm for deep learning published by
 
 Clips of an agent trained using MuZero playing the game can be found below:
 
-|     Training GIF 1 (_Level Failure_)  |  Training GIF 2 (_Level Failure_)  | Training GIF 3 ( _Level Complete_ ) | Training GIF 4 ( _Level Complete_ ) |
+|     Training GIF 1 (_Level Fail_)  |  Training GIF 2 (_Level Fail_)  | Training GIF 3 (_Level Complete_) | Training GIF 4 (_Level Complete_) |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 | ![MuZero_GIF_1](MuZero_Mario_GIF_1.gif) | ![MuZero_GIF_2](MuZero_Mario_GIF_2.gif) | ![MuZero_GIF_3](MuZero_Mario_GIF_3.gif) | ![MuZero_GIF_4](MuZero_Mario_GIF_4.gif) |
 
@@ -84,18 +84,18 @@ I enjoy running, cycling and hiking in my spare time. Here are a few images I've
 
 | <!-- -->    | <!-- -->    |
 :-------------------------:|:-------------------------:
-Sunshine Meadows - ( _Banff National Park, Alberta_ )            |  Peyto Lake - ( _Banff National Park, Alberta_ )
+Sunshine Meadows - _Banff National Park_             |  Peyto Lake - _Banff National Park_
 ![](Sunshine_Banff.jpg)  |  ![](Peyto_Banff.jpg)
-Flowerpot Island ( _Bruce Peninsula National Park, Ontario_ ) |   The Grotto ( _Bruce Peninsula National Park, Ontario_ )     
+Flowerpot Island - _Bruce Peninsula National Park_ |   The Grotto - _Bruce Peninsula National Park_     
 ![Flowerpot Island (_Ontario_)](Flowerpot_Bruce.jpg)  |  ![The Grotto (_Ontario_)](Grotto_Bruce.jpg)
-Centennial Ridges - ( _Algonquin Provincial Park, Ontario_ )            |  Track and Tower - ( _Algonquin Provincial Park, Ontario_ )
+Centennial Ridges - _Algonquin Provincial Park_            |  Track and Tower - _Algonquin Provincial Park_
 ![](Algonquin_2020_2.jpg)  |  ![](TrackTower_Algonquin.jpg)
 
 
 
 **Indian Hiking** 
 
-BR Hills - (_Karnataka, India_)   |  Tadiandamol (_Karnataka, India_)
+BR Hills - _Karnataka_   |  Tadiandamol - _Karnataka_
 :-------------------------:|:-------------------------:
 ![](BRHills_2019.jpg)  |  ![](Tadiandamol_2019.jpg)
 
