@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 title: Sreeharsha Udayashankar
 description: Welcome to my personal page!
-markdown: kramdown
+markdown: GFM
 plugins:
   - jekyll-seo-tag
 google_analytics: UA-181067473-1
