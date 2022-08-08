@@ -79,22 +79,23 @@ This project is a simple memory game using emojis. It was developed using Python
 **Source Code**: 
 [Emoji Memory Game](https://github.com/sreeharshau/memory-game-python)
 
-## Hobbies and other Interests
+## Hobbies
 
-I enjoy running, cycling and hiking in my spare time. I love travelling to and experiencing new places. If there is a place you think I should visit, let me know! Here are a few images I've shot using my phone on some of my hikes:
+I enjoy running, cycling and hiking in my spare time. I love travelling to and experiencing new places. Here are a few images I've shot using my phone on some of my hikes:
 
-**Bruce Peninsula National Park** (_Ontario, Canada_)
-Flowerpot Island             |  The Grotto
+**Canadian Hiking** 
+| <!-- -->    | <!-- -->    |
 :-------------------------:|:-------------------------:
-![](Flowerpot_Bruce.jpg)  |  ![](Grotto_Bruce.jpg)
+Sunshine Meadows - ( _Banff National Park, Alberta_ )            |  Peyto Lake - ( _Banff National Park, Alberta_ )
+![](Sunshine_Banff.jpg)  |  ![](Peyto_Banff.jpg)
+Flowerpot Island ( _Bruce Peninsula National Park, Ontario_ ) |   The Grotto ( _Bruce Peninsula National Park, Ontario_ )     
+![Flowerpot Island (_Ontario_)](Flowerpot_Bruce.jpg)  |  ![The Grotto (_Ontario_)](Grotto_Bruce.jpg)
+Centennial Ridges - ( _Algonquin Provincial Park, Ontario_ )            |  Track and Tower - ( _Algonquin Provincial Park, Ontario_ )
+![](Algonquin_2020_2.jpg)  |  ![](TrackTower_Algonquin.jpg)
 
 
-**Algonquin Provincial Park** (_Ontario, Canada_)
-Centennial Ridges - Lookout 1             |  Centennial Ridges - Lookout 2
-:-------------------------:|:-------------------------:
-![](Algonquin_2020.jpg)  |  ![](Algonquin_2020_2.jpg)
 
-**Hiking in India** 
+**Indian Hiking** 
 BR Hills - (_Karnataka, India_)   |  Tadiandamol (_Karnataka, India_)
 :-------------------------:|:-------------------------:
 ![](BRHills_2019.jpg)  |  ![](Tadiandamol_2019.jpg)
