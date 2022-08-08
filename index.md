@@ -52,8 +52,11 @@ Clips of an agent trained using MuZero playing the game can be found below:
 This project consists of an Ethereum-based back end and a front end powered by React.js. The objective of this project was to build a lottery application where users register using Ether and stand a chance to win the Jackpot. 
 
 The Jackpot is the prize pool consisting of contributions from all participants with the winner being chosen at regular time intervals. A participants chances also increase with the Ether they contribute up to a certain limit.
+ 
+ <p align="center">
+    <img src="LotteryApplication_InformationScreen.png">
+  </p>
 
- ![Crypto_Lottery]("LotteryApplication_InformationScreen.png")
 
 **Source Code**:
 
