@@ -38,7 +38,7 @@ I have attempted to evaluate MuZero, an algorithm for deep learning published by
 
 Clips of an agent trained using MuZero playing the game can be found below:
 
-|     Training GIF 1 (_Level Fail_)  |  Training GIF 2 (_Level Fail_)  | Training GIF 3 (_Level Complete_) | Training GIF 4 (_Level Complete_) |
+|     Training GIF 1 (_Level Complete_)  |  Training GIF 2 (_Level Complete_)  | Training GIF 3 (_Level Fail_) | Training GIF 4 (_Level Fail_) |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 | ![MuZero_GIF_1](MuZero_Mario_GIF_1.gif) | ![MuZero_GIF_2](MuZero_Mario_GIF_2.gif) | ![MuZero_GIF_3](MuZero_Mario_GIF_3.gif) | ![MuZero_GIF_4](MuZero_Mario_GIF_4.gif) |
 
