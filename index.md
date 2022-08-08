@@ -65,6 +65,7 @@ The Jackpot is the prize pool consisting of contributions from all participants 
 ### Python Game Collection
 
 I have developed a few games in Python 3.6 using the PyGame library. Some of them are showcased below.
+
 | Snake    | Memory Game    |
 :-------------------------:|:-------------------------:
 | ![Snake_Game](Snake_TitleImage.jpg) | ![Emoji Memory Game Peek](MemoryGame_CardsActive.png) |
@@ -79,7 +80,8 @@ I have developed a few games in Python 3.6 using the PyGame library. Some of the
 
 I enjoy running, cycling and hiking in my spare time. Here are a few images I've shot using my phone on some of my hikes:
 
-**Canadian Hiking** 
+**Canadian Hiking**
+
 | <!-- -->    | <!-- -->    |
 :-------------------------:|:-------------------------:
 Sunshine Meadows - ( _Banff National Park, Alberta_ )            |  Peyto Lake - ( _Banff National Park, Alberta_ )
@@ -92,6 +94,7 @@ Centennial Ridges - ( _Algonquin Provincial Park, Ontario_ )            |  Track
 
 
 **Indian Hiking** 
+
 BR Hills - (_Karnataka, India_)   |  Tadiandamol (_Karnataka, India_)
 :-------------------------:|:-------------------------:
 ![](BRHills_2019.jpg)  |  ![](Tadiandamol_2019.jpg)
