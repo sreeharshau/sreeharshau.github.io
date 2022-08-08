@@ -53,7 +53,9 @@ This project consists of an Ethereum-based back end and a front end powered by R
 
 The Jackpot is the prize pool consisting of contributions from all participants with the winner being chosen at regular time intervals. A participants chances also increase with the Ether they contribute up to a certain limit.
 
-![Main Screen](LotteryApplication_InformationScreen.png)
+ <p align="center">
+    <img src="LotteryApplication_InformationScreen.png">
+  </p>
 
 **Source Code**:
 
