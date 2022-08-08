@@ -81,7 +81,7 @@ This project is a simple memory game using emojis. It was developed using Python
 
 ## Hobbies
 
-I enjoy running, cycling and hiking in my spare time. I love travelling to and experiencing new places. Here are a few images I've shot using my phone on some of my hikes:
+I enjoy running, cycling and hiking in my spare time. Here are a few images I've shot using my phone on some of my hikes:
 
 **Canadian Hiking** 
 | <!-- -->    | <!-- -->    |
