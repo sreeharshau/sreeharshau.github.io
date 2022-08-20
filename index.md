@@ -18,22 +18,22 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 ## Publications
 
 - **Partial Network Partitioning** (ACM Transactions on Computer Systems 2022 - _Accepted for publication_) 
-     - _Basil Alkhatib, **Sreeharsha Udayashankar**, Sara Qunaibi, Ahmed Alquraan, Mohammed Alfatafta, Wael Al-Manasrah, Alex Depoutovitch, Samer Al-Kiswany_
+     - Basil Alkhatib, _Sreeharsha Udayashankar_, Sara Qunaibi, Ahmed Alquraan, Mohammed Alfatafta, Wael Al-Manasrah, Alex Depoutovitch, Samer Al-Kiswany
   
 - **Orcbench: A Representative Serverless Benchmark** (IEEE Cloud 2022) [[Paper]](https://rcs.uwaterloo.ca/~ryan/files/orcbench.pdf)
-     - _Ryan Hancock, **Sreeharsha Udayashankar**, Ali Mashtizadeh and Samer Al-Kiswany_ 
+     - Ryan Hancock, _Sreeharsha Udayashankar_, Ali Mashtizadeh and Samer Al-Kiswany 
   
 - **Benchmarking Diferentially Private Algorithms** (TPDP - ICML 2021) [[Paper]](https://tpdp.journalprivacyconfidentiality.org/2021/papers/NingUQKH21.pdf)
-     - _Huiyi Ning, **Sreeharsha Udayashankar**, Sara Qunaibi, Karl Knopf and Xi He_
+     - Huiyi Ning, _Sreeharsha Udayashankar_, Sara Qunaibi, Karl Knopf and Xi He
   
 - **In-Network Scheduling for Real-Time Analytics** (MMath Thesis - 2021) [[Thesis]](https://uwspace.uwaterloo.ca/handle/10012/16922)
-     - _**Sreeharsha Udayashankar**_ 
+     - _Sreeharsha Udayashankar_ 
   
 - **Falcon - Low Latency Network Accelerated Scheduling** (EuroP4 - ACM CoNext 2020) [[Paper]](https://dl.acm.org/doi/10.1145/3426744.3431322)
-     - _Ibrahim Kettaneh, **Sreeharsha Udayashankar**, Ashraf Abdel-Hadi, Robin Grosman and Samer Al-Kiswany_ 
+     - Ibrahim Kettaneh, _Sreeharsha Udayashankar_, Ashraf Abdel-Hadi, Robin Grosman and Samer Al-Kiswany
   
 - **Gaming Modeling and Projections - The Impact of CPU Performance** (AMD Asia Tech Conference 2019) 
-     - _**Sreeharsha Udayashankar**, Saumya Chandra and Don Cherepacha_
+     - _Sreeharsha Udayashankar_, Saumya Chandra and Don Cherepacha
 
 ## Side Projects
 
