@@ -17,10 +17,10 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 
 ## Publications
 
-- **Partial Network Partitioning** (ACM Transactions on Computer Systems 2022 - _Accepted for publication_) 
+- **Partial Network Partitioning** (ACM Transactions on Computer Systems 2022) [[Paper]](https://dl.acm.org/doi/10.1145/3576192)
      - Basil Alkhatib, _Sreeharsha Udayashankar_, Sara Qunaibi, Ahmed Alquraan, Mohammed Alfatafta, Wael Al-Manasrah, Alex Depoutovitch, Samer Al-Kiswany
   
-- **Orcbench: A Representative Serverless Benchmark** (IEEE Cloud 2022) [[Paper]](https://rcs.uwaterloo.ca/~ryan/files/orcbench.pdf)
+- **Orcbench: A Representative Serverless Benchmark** (IEEE Cloud 2022) [[Paper]](https://ieeexplore.ieee.org/document/9860528)
      - Ryan Hancock, _Sreeharsha Udayashankar_, Ali Mashtizadeh and Samer Al-Kiswany 
   
 - **Benchmarking Diferentially Private Algorithms** (TPDP - ICML 2021) [[Paper]](https://tpdp.journalprivacyconfidentiality.org/2021/papers/NingUQKH21.pdf)
