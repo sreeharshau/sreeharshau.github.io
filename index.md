@@ -17,8 +17,14 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 
 ## Publications
 
+- **DedupBench - A benchmarking tool for data chunking techniques** (IEEE CCECE 2023)
+  - Alan Liu, Abdelrehman Ba'ba, _Sreeharsha Udayashankar_ and Samer Al-Kiswany
+
+- **CAS: Connectivity-Aware Scheduling** (International Symposium on Reliable Distributed Systems 2023)
+  - Sara Qunaibi, _Sreeharsha Udayashankar_ and Samer Al-Kiswany
+
 - **Partial Network Partitioning** (ACM Transactions on Computer Systems 2022) [[Paper]](https://dl.acm.org/doi/10.1145/3576192)
-     - Basil Alkhatib, _Sreeharsha Udayashankar_, Sara Qunaibi, Ahmed Alquraan, Mohammed Alfatafta, Wael Al-Manasrah, Alex Depoutovitch, Samer Al-Kiswany
+     - Basil Alkhatib, _Sreeharsha Udayashankar_, Sara Qunaibi, Ahmed Alquraan, Mohammed Alfatafta, Wael Al-Manasrah, Alex Depoutovitch and Samer Al-Kiswany
   
 - **Orcbench: A Representative Serverless Benchmark** (IEEE Cloud 2022) [[Paper]](https://ieeexplore.ieee.org/document/9860528)
      - Ryan Hancock, _Sreeharsha Udayashankar_, Ali Mashtizadeh and Samer Al-Kiswany 
