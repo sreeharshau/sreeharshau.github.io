@@ -17,37 +17,37 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 
 ## Publications
 
-- <details> <summary>**DedupBench - A benchmarking tool for data chunking techniques** (IEEE CCECE 2023) </summary>
-
+<details> <summary> DedupBench - A benchmarking tool for data chunking techniques (IEEE CCECE 2023) </summary>
   Alan Liu, Abdelrahman Ba'ba', _Sreeharsha Udayashankar_ and Samer Al-Kiswany
+</details>
 
-- **CAS: Connectivity-Aware Scheduling** (International Symposium on Reliable Distributed Systems 2023)
-  
-  <sup><sub> Sara Qunaibi, _Sreeharsha Udayashankar_ and Samer Al-Kiswany </sub></sup>
+<details> <summary> CAS: Connectivity-Aware Scheduling** (International Symposium on Reliable Distributed Systems 2023) </summary>
+  Sara Qunaibi, _Sreeharsha Udayashankar_ and Samer Al-Kiswany
+</details>
 
-- **Partial Network Partitioning** (ACM Transactions on Computer Systems 2022) [[Paper]](https://dl.acm.org/doi/10.1145/3576192)
+<details> <summary> Partial Network Partitioning (ACM Transactions on Computer Systems 2022) [[Paper]](https://dl.acm.org/doi/10.1145/3576192) </summary>
+  Basil Alkhatib, _Sreeharsha Udayashankar_, Sara Qunaibi, Ahmed Alquraan, Mohammed Alfatafta, Wael Al-Manasrah, Alex Depoutovitch and Samer Al-Kiswany
+</details>
   
-     <sup><sub> Basil Alkhatib, _Sreeharsha Udayashankar_, Sara Qunaibi, Ahmed Alquraan, Mohammed Alfatafta, Wael Al-Manasrah, Alex Depoutovitch and Samer Al-Kiswany </sub></sup>
+<details> <summary> Orcbench: A Representative Serverless Benchmark (IEEE Cloud 2022) [[Paper]](https://ieeexplore.ieee.org/document/9860528) </summary>
+  Ryan Hancock, _Sreeharsha Udayashankar_, Ali Mashtizadeh and Samer Al-Kiswany
+</details>
   
-- **Orcbench: A Representative Serverless Benchmark** (IEEE Cloud 2022) [[Paper]](https://ieeexplore.ieee.org/document/9860528)
+<details> <summary> Benchmarking Diferentially Private Algorithms (TPDP - ICML 2021) [[Paper]](https://tpdp.journalprivacyconfidentiality.org/2021/papers/NingUQKH21.pdf)</summary>
+   Huiyi Ning, _Sreeharsha Udayashankar_, Sara Qunaibi, Karl Knopf and Xi He
+</details>
   
-     <sup><sub> Ryan Hancock, _Sreeharsha Udayashankar_, Ali Mashtizadeh and Samer Al-Kiswany </sub></sup>
+<details> <summary> In-Network Scheduling for Real-Time Analytics (MMath Thesis - 2021) [[Thesis]](https://uwspace.uwaterloo.ca/handle/10012/16922)</summary>
+  _Sreeharsha Udayashankar_
+</details>
   
-- **Benchmarking Diferentially Private Algorithms** (TPDP - ICML 2021) [[Paper]](https://tpdp.journalprivacyconfidentiality.org/2021/papers/NingUQKH21.pdf)
+<details> <summary> Falcon - Low Latency Network Accelerated Scheduling (EuroP4 - ACM CoNext 2020) [[Paper]](https://dl.acm.org/doi/10.1145/3426744.3431322) </summary>
+  Ibrahim Kettaneh, _Sreeharsha Udayashankar_, Ashraf Abdel-Hadi, Robin Grosman and Samer Al-Kiswany
+</details>
   
-     <sup><sub> Huiyi Ning, _Sreeharsha Udayashankar_, Sara Qunaibi, Karl Knopf and Xi He </sub></sup>
-  
-- **In-Network Scheduling for Real-Time Analytics** (MMath Thesis - 2021) [[Thesis]](https://uwspace.uwaterloo.ca/handle/10012/16922)
-  
-     <sup><sub> _Sreeharsha Udayashankar_ </sub></sup>
-  
-- **Falcon - Low Latency Network Accelerated Scheduling** (EuroP4 - ACM CoNext 2020) [[Paper]](https://dl.acm.org/doi/10.1145/3426744.3431322)
-  
-     <sup><sub> Ibrahim Kettaneh, _Sreeharsha Udayashankar_, Ashraf Abdel-Hadi, Robin Grosman and Samer Al-Kiswany </sub></sup>
-  
-- **Gaming Modeling and Projections - The Impact of CPU Performance** (AMD Asia Tech Conference 2019)
-  
-     <sup><sub> _Sreeharsha Udayashankar_, Saumya Chandra and Don Cherepacha </sub></sup>
+<details> <summary> Gaming Modeling and Projections - The Impact of CPU Performance (AMD Asia Tech Conference 2019) </summary>
+  _Sreeharsha Udayashankar_, Saumya Chandra and Don Cherepacha
+</details>
 
 ## Side Projects
 
