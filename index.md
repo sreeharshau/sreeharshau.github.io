@@ -1,6 +1,6 @@
 ![Title Image](Title_Image_2.jpg)
 
-I am a computer science researcher interested in research within Systems and Networking. I have been a part of projects in Cloud Computing, Distributed Systems and Computer Architecture. My current research is focused on the following areas:
+I am a computer science researcher working on Systems and Networking research. I have been a part of projects in Cloud Computing, Distributed Systems and Computer Architecture. My current research is focused on the following areas:
   - Utilizing recent advances such as _RDMA_ and _Programmable Switches (P4)_ to accelerate large-scale system performance
   - Improving techniques for _Data Deduplication_ with encrypted data
   - Analyzing the impact of _Networking Failures_ on large-scale software systems
@@ -14,7 +14,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 # Publications
 
 <details> <summary> 
-   DedupBench - A benchmarking tool for data chunking techniques (IEEE CCECE 2023)
+   <strong>DedupBench - A benchmarking tool for data chunking techniques <strong> (IEEE CCECE 2023)
   </summary>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alan Liu, Abdelrahman Ba'ba', _Sreeharsha Udayashankar_ and Samer Al-Kiswany
