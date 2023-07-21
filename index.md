@@ -1,13 +1,13 @@
 ![Title Image](Title_Image_2.jpg)
 
-I am a computer science researcher whose interests lie primarily in the Systems domain. I have been a part of projects in Cloud Computing, Distributed Systems and Computer Architecture. My current research is focused on the following areas:
+I am a computer science researcher interested in research within Systems and Networking. I have been a part of projects in Cloud Computing, Distributed Systems and Computer Architecture. My current research is focused on the following areas:
   - Utilizing recent advances such as _RDMA_ and _Programmable Switches (P4)_ to accelerate large-scale system performance
+  - Improving techniques for _Data Deduplication_ with encrypted data
   - Analyzing the impact of _Networking Failures_ on large-scale software systems
-  - Analysis of modern-day _Serverless Computing_ infrastructure to identify performance bottlenecks and optimization opportunities
+  
+I am enrolled in the PhD program in Computer Science at the University of Waterloo as a part of the Waterloo Advanced Systems Lab ([WASL](https://wasl.uwaterloo.ca/)). My supervisor is [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html). Prior to this, I was enrolled in the research-based master's program at Waterloo from 2019-2021 and I have been a Design Engineer at Advanced Micro Devices (AMD) from 2017-2019. 
 
-I am enrolled in the PhD program in Computer Science at the University of Waterloo as a part of the Waterloo Advanced Systems Lab ([WASL](https://wasl.uwaterloo.ca/)). My supervisor is [Dr. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html). Prior to this, I was enrolled in the research-based master's program at Waterloo from 2019-2021 and I have been a Design Engineer at Advanced Micro Devices (AMD) from 2017-2019. 
-
-I received my master's degree in Computer Science from the University of Waterloo in 2021, working under the supervision of  [Dr. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html). I received my undergraduate degree in Computer Science from PES University in Bangalore, India and have been supervised by [Dr. K.V Subramaniam](https://www.linkedin.com/in/kalsubra/?originalSubdomain=in) and [Dr. Phalachandra](https://staff.pes.edu/nm1313). I was a research assistant at [CCBD](http://research.pes.edu/cloud-computing-big-data/) during my time there.
+I received my master's degree in Computer Science from the University of Waterloo in 2021, working under the supervision of  [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html). I received my undergraduate degree in Computer Science from PES University in Bangalore, India and have been supervised by [Dr. K.V Subramaniam](https://www.linkedin.com/in/kalsubra/?originalSubdomain=in) and [Dr. Phalachandra](https://staff.pes.edu/nm1313). I was a research assistant at [CCBD](http://research.pes.edu/cloud-computing-big-data/) during my time there.
 
 I have experience developing systems in numerous languages such as C, C++, Java, JavaScript and Python along with limited experience in Solidity.
 
@@ -70,7 +70,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 
 ## Side Projects
 
-In my spare time, I like to develop applications using a variety of languages and tools to keep my skills sharp. Some of these projects and their source code are showcased in this section.
+In my spare time, I develop applications with a variety of languages and tools. Some of these projects and their source code are showcased in this section.
 
 ### MuZero on Super Mario Bros
 
@@ -83,7 +83,7 @@ I have attempted to evaluate MuZero, an algorithm for deep learning published by
 
 Clips of an agent trained using MuZero playing the game can be found below:
 
-|     Training GIF 1 (_Level Complete_)  |  Training GIF 2 (_Level Complete_)  | Training GIF 3 (_Level Fail_) | Training GIF 4 (_Level Fail_) |
+|     Training GIF 1 (_Completion_)  |  Training GIF 2 (_Completion_)  | Training GIF 3 (_Failure_) | Training GIF 4 (_Failure_) |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 | ![MuZero_GIF_1](MuZero_Mario_GIF_1.gif) | ![MuZero_GIF_2](MuZero_Mario_GIF_2.gif) | ![MuZero_GIF_3](MuZero_Mario_GIF_3.gif) | ![MuZero_GIF_4](MuZero_Mario_GIF_4.gif) |
 
