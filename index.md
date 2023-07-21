@@ -11,21 +11,23 @@ I received my master's degree in Computer Science from the University of Waterlo
 
 I have experience developing systems in numerous languages such as C, C++, Java, JavaScript and Python along with limited experience in Solidity.
 
-**Complete Resume**: [Resume](https://sreeharshau.github.io/Sreeharsha_Resume_2022.pdf)
-
-**LinkedIn**: [Sreeharsha Udayashankar](https://www.linkedin.com/in/sreeharshau/)
-
 ## Publications
 
-<details> <summary> DedupBench - A benchmarking tool for data chunking techniques (IEEE CCECE 2023) </summary>
+<details> <summary> 
+   <b>DedupBench - A benchmarking tool for data chunking techniques</b> (IEEE CCECE 2023)
+  </summary>
   Alan Liu, Abdelrahman Ba'ba', _Sreeharsha Udayashankar_ and Samer Al-Kiswany
 </details>
 
-<details> <summary> CAS: Connectivity-Aware Scheduling** (International Symposium on Reliable Distributed Systems 2023) </summary>
+<details> <summary> 
+  <b>CAS: Connectivity-Aware Scheduling</b> (International Symposium on Reliable Distributed Systems 2023) 
+</summary>
   Sara Qunaibi, _Sreeharsha Udayashankar_ and Samer Al-Kiswany
 </details>
 
-<details> <summary> Partial Network Partitioning (ACM Transactions on Computer Systems 2022) [[Paper]](https://dl.acm.org/doi/10.1145/3576192) </summary>
+<details> <summary> 
+  <b>Partial Network Partitioning </b> (ACM Transactions on Computer Systems 2022) <a href="https://dl.acm.org/doi/10.1145/3576192">[Paper]</a>
+</summary>
   Basil Alkhatib, _Sreeharsha Udayashankar_, Sara Qunaibi, Ahmed Alquraan, Mohammed Alfatafta, Wael Al-Manasrah, Alex Depoutovitch and Samer Al-Kiswany
 </details>
   
