@@ -6,4 +6,4 @@ plugins:
   - jekyll-seo-tag
 google_analytics: UA-181067473-1
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-dinky
