@@ -68,11 +68,11 @@ I have experience developing systems in numerous languages such as C, C++, Java,
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Sreeharsha Udayashankar_, Saumya Chandra and Don Cherepacha
 </details>
 
-## Side Projects
+# Side Projects
 
 In my spare time, I develop applications with a variety of languages and tools. Some of these projects and their source code are showcased in this section.
 
-### MuZero on Super Mario Bros
+## MuZero on Super Mario Bros
 
 I have attempted to evaluate MuZero, an algorithm for deep learning published by Google Deepmind in 2019, against Deep-Q-Networks with Double-Q-Learning, the state of the art model free algorithm. I have compared their performance using the game Super Mario Bros. The system architectural diagram has been shown below:
 
@@ -92,7 +92,7 @@ Clips of an agent trained using MuZero playing the game can be found below:
 - [Repository Link](https://github.com/sreeharshau/muzero-super-mario-bros)
 - [Evaluation Report](Evaluating_MuZero_Super_Mario_Bros.pdf)
 
-### The Crypto Lottery
+## The Crypto Lottery
 
 This project consists of an Ethereum-based back end and a front end powered by React.js. The objective of this project was to build a lottery application where users register using Ether and stand a chance to win the Jackpot. 
 
@@ -110,7 +110,7 @@ The Jackpot is the prize pool consisting of contributions from all participants 
 - [Crypto Lottery Backend](https://github.com/sreeharshau/EthereumLottery_SmartContract)
 
 
-### Python Game Collection
+## Python Game Collection
 
 I have developed a few games in Python 3.6 using the PyGame library. Some of them are showcased below.
 
@@ -124,11 +124,11 @@ I have developed a few games in Python 3.6 using the PyGame library. Some of the
 
  - [Emoji Memory Game](https://github.com/sreeharshau/memory-game-python)
 
-## Hobbies
+# Hobbies
 
 I enjoy running, cycling and hiking in my spare time. Here are a few images I've shot using my phone on some of my hikes:
 
-**Canadian Hiking**
+## Canadian Hiking
 
 | Sunshine Meadows - _Banff National Park_ | Peyto Lake - _Banff National Park_  |
 :-------------------------:|:-------------------------:
@@ -144,7 +144,7 @@ I enjoy running, cycling and hiking in my spare time. Here are a few images I've
 
 
 
-**Indian Hiking** 
+## Indian Hiking
 
 BR Hills - _Karnataka_   |  Tadiandamol - _Karnataka_
 :-------------------------:|:-------------------------:
