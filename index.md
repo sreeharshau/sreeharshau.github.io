@@ -17,9 +17,9 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 
 ## Publications
 
-- **DedupBench - A benchmarking tool for data chunking techniques** (IEEE CCECE 2023)
+- <details> <summary>**DedupBench - A benchmarking tool for data chunking techniques** (IEEE CCECE 2023) </summary>
 
-  <sup><sub> Alan Liu, Abdelrahman Ba'ba', _Sreeharsha Udayashankar_ and Samer Al-Kiswany </sub></sup>
+  Alan Liu, Abdelrahman Ba'ba', _Sreeharsha Udayashankar_ and Samer Al-Kiswany
 
 - **CAS: Connectivity-Aware Scheduling** (International Symposium on Reliable Distributed Systems 2023)
   
