@@ -1,8 +1,9 @@
 # theme: jekyll-theme-slate
 title: Sreeharsha Udayashankar
+description:
 markdown: GFM
 plugins:
-  - jekyll-seo-tag
+  - jekyll-remote-theme
 google_analytics: UA-181067473-1
 
-theme: jekyll-theme-dinky
+remote_theme: pages-themes/dinky@v0.2.0
