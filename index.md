@@ -18,7 +18,6 @@ I have experience developing systems in numerous languages such as C, C++, Java,
   </summary>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alan Liu, Abdelrahman Ba'ba', _Sreeharsha Udayashankar_ and Samer Al-Kiswany
-  
 </details>
 
 <details> <summary> 
@@ -26,21 +25,18 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 </summary>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sara Qunaibi, _Sreeharsha Udayashankar_ and Samer Al-Kiswany
-
 </details>
 
 <details> <summary> 
-  Partial Network Partitioning (ACM Transactions on Computer Systems 2022) <a href="https://dl.acm.org/doi/10.1145/3576192">[Paper]</a>
+  Partial Network Partitioning (ACM Transactions on Computer Systems 2022) <a href="https://dl.acm.org/doi/10.1145/3576192">[Paper]</a> <a href="https://dl.acm.org/doi/pdf/10.1145/3576192">[PDF]</a>
 </summary>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basil Alkhatib, _Sreeharsha Udayashankar_, Sara Qunaibi, Ahmed Alquraan, Mohammed Alfatafta, Wael Al-Manasrah, Alex Depoutovitch and Samer Al-Kiswany
-
 </details>
   
 <details> <summary> 
-  Orcbench: A Representative Serverless Benchmark (IEEE Cloud 2022) <a href="https://ieeexplore.ieee.org/document/9860528")>[Paper]</a> 
+  Orcbench: A Representative Serverless Benchmark (IEEE Cloud 2022) <a href="https://ieeexplore.ieee.org/document/9860528")>[Paper]</a> <a href="https://rcs.uwaterloo.ca/~ryan/files/orcbench.pdf">[PDF]</a> 
 </summary>
-  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ryan Hancock, _Sreeharsha Udayashankar_, Ali Mashtizadeh and Samer Al-Kiswany
 </details>
   
@@ -59,7 +55,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 </details>
   
 <details> <summary>
-  Falcon - Low Latency Network Accelerated Scheduling (EuroP4 - ACM CoNext 2020) <a href="https://dl.acm.org/doi/10.1145/3426744.3431322">[Paper]</a> 
+  Falcon - Low Latency Network Accelerated Scheduling (EuroP4 - ACM CoNext 2020) <a href="https://dl.acm.org/doi/10.1145/3426744.3431322">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/Falcon-EuroP420.pdf">[PDF]</a> 
 </summary>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ibrahim Kettaneh, _Sreeharsha Udayashankar_, Ashraf Abdel-Hadi, Robin Grosman and Samer Al-Kiswany
