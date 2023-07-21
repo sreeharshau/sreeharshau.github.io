@@ -1,6 +1,7 @@
-# theme: jekyll-theme-slate
+ # theme: jekyll-theme-slate
 title: Sreeharsha Udayashankar
-description:
+description: Welcome to my personal page!
+linkedin_url: https://www.linkedin.com/in/sreeharshau/
 markdown: GFM
 plugins:
   - jekyll-remote-theme
