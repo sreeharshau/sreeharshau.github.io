@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-.markdown-title{
+.header{
   font-size: 8px
 }
