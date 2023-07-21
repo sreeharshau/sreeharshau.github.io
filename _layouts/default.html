@@ -18,11 +18,11 @@
       <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <ul>
-          <li><b><a class="buttons resume" href="{{ site.resume_url }}">Resume</a></b></li>
+          <li><b><a style="font-weight:bold" class="buttons resume" href="{{ site.resume_url }}">Resume</a></b></li>
         </ul>
 
         <ul>
-          <li><b></b><a class="buttons linkedin" href="{{ site.linkedin_url }}">LinkedIn</a></b></li>
+          <li><b></b><a style="font-weight:bold" class="buttons linkedin" href="{{ site.linkedin_url }}">LinkedIn</a></b></li>
         </ul>
 
         {% if site.github.is_project_page %}
@@ -31,7 +31,7 @@
 
         {% if site.github.is_user_page %}
           <ul>
-            <li><b><a class="buttons github" href="{{ site.github.owner_url }}">GitHub</a></b></li>
+            <li><b><a style="font-weight:bold" class="buttons github" href="{{ site.github.owner_url }}">GitHub</a></b></li>
           </ul>
         {% endif %}
       </header>
