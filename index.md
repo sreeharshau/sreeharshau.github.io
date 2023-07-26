@@ -12,7 +12,7 @@ I received my master's degree in Computer Science from the University of Waterlo
 I have experience developing systems in numerous languages such as C, C++, Java, JavaScript and Python along with limited experience in Solidity.
 
 # Publications
-
+<br>
 <details> <summary> 
    <strong>DedupBench - A benchmarking tool for data chunking techniques </strong> (IEEE CCECE 2023)
   </summary>
