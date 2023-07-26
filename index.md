@@ -1,6 +1,6 @@
 ![Title Image](Title_Image_2.jpg)
 
-I am a computer science researcher working on Systems and Networking research. I have been a part of projects in Cloud Computing, Distributed Systems and Computer Architecture. My current research is focused on the following areas:
+I am a computer science researcher working within Systems and Networking. My current research is focused on the following areas:
   - Utilizing recent advances such as _RDMA_ and _Programmable Switches (P4)_ to accelerate data center system performance
   - Improving techniques for _Data Deduplication_ with encrypted data
   - Analyzing the impact of _Networking Failures_ on large-scale software systems
