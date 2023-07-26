@@ -9,6 +9,6 @@ plugins:
   - jekyll-remote-theme
    - jekyll-include-cache
    
-google_analytics: UA-181067473-1
+gtag: G-9RQMH51FDR
 
 remote_theme: daattali/beautiful-jekyll
