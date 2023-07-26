@@ -2,7 +2,9 @@
 
 I am a computer science researcher working within Systems and Networking. My current research is focused on the following areas:
   - Utilizing recent advances such as _RDMA_ and _Programmable Switches (P4)_ to accelerate data center system performance
+      
   - Improving techniques for _Data Deduplication_ with encrypted data
+   
   - Analyzing the impact of _Networking Failures_ on large-scale software systems
   
 I am enrolled in the PhD program in Computer Science at the University of Waterloo as a part of the Waterloo Advanced Systems Lab ([WASL](https://wasl.uwaterloo.ca/)). My supervisor is [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html). Prior to this, I was enrolled in the research-based master's program at Waterloo from 2019-2021 and I have been a Design Engineer at Advanced Micro Devices (AMD) from 2017-2019. 
