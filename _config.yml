@@ -9,4 +9,4 @@ plugins:
   - jekyll-remote-theme
 google_analytics: UA-181067473-1
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: amitmerchant1990/reverie
