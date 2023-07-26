@@ -7,6 +7,8 @@ resume_url: /Sreeharsha_Resume_2022.pdf
 markdown: GFM
 plugins:
   - jekyll-remote-theme
+   - jekyll-include-cache
+   
 google_analytics: UA-181067473-1
 
-remote_theme: amitmerchant1990/reverie
+remote_theme: mmistakes/minimal-mistakes
