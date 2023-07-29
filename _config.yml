@@ -13,7 +13,7 @@ gtag: G-9RQMH51FDR
 
 remote_theme: daattali/beautiful-jekyll
 
-avatar: "Title_Image_2.jpg"
+avatar: "/images/avatar.jpg"
 round-avatar: true
 
 navbar-links:
