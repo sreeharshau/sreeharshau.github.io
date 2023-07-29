@@ -16,7 +16,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 [![Linkedin](images/linkedinicon.png) LinkedIn](https://www.linkedin.com/in/sreeharshau/)
 &nbsp;
 [![GitHub](images/githubicon.png) GitHub](https://github.com/sreeharshau/)
-[![Resume](images/resume.png) GitHub](Sreeharsha_Resume_2022.pdf)
+[![Resume](images/resume.png) Resume](Sreeharsha_Resume_2022.pdf)
 
 # Publications
 <br>
