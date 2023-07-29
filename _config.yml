@@ -13,9 +13,6 @@ gtag: G-9RQMH51FDR
 
 remote_theme: daattali/beautiful-jekyll
 
-avatar: "/images/avatar.jpg"
-round-avatar: true
-
 navbar-links:
   Resume: "/Sreeharsha_Resume_2022.pdf"
   LinkedIn: "https://www.linkedin.com/in/sreeharshau/"
