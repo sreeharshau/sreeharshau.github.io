@@ -29,7 +29,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 </details>
 <br>
 <details> <summary> 
-  <strong> CAS: Connectivity-Aware Scheduling </strong> (SRDS 2023) 
+  <strong> CAS: Connectivity-Aware Scheduling </strong> (International Symposium on Reliable Distributed Systems 2023) 
 </summary>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sara Qunaibi, _Sreeharsha Udayashankar_ and Samer Al-Kiswany
