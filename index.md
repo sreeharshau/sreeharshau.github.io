@@ -99,9 +99,13 @@ I have attempted to evaluate MuZero, an algorithm for deep learning published by
 
 Clips of an agent trained using MuZero playing the game can be found below:
 
-|     Training GIF 1 (_Completion_)  |  Training GIF 2 (_Completion_)  | Training GIF 3 (_Failure_) | Training GIF 4 (_Failure_) |
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-| ![MuZero_GIF_1](MuZero_Mario_GIF_1.gif) | ![MuZero_GIF_2](MuZero_Mario_GIF_2.gif) | ![MuZero_GIF_3](MuZero_Mario_GIF_3.gif) | ![MuZero_GIF_4](MuZero_Mario_GIF_4.gif) |
+|  Training GIF 1 |  Training GIF 2 |
+:-------------------------:|:-------------------------:
+| ![MuZero_GIF_1](MuZero_Mario_GIF_1.gif) | ![MuZero_GIF_2](MuZero_Mario_GIF_2.gif) |
+
+| Training GIF 3 | Training GIF 4 |
+:-------------------------:|:-------------------------:
+| ![MuZero_GIF_3](MuZero_Mario_GIF_3.gif) | ![MuZero_GIF_4](MuZero_Mario_GIF_4.gif) |
 
 **Details**
 
