@@ -14,19 +14,21 @@ I received my master's degree in Computer Science from the University of Waterlo
 I have experience developing systems in numerous languages such as C, C++, Java, JavaScript and Python along with limited experience in Solidity.
 
 # Publications
+
+<br>
+<details> <summary> 
+  <strong> CASPR: Connectivity-Aware Scheduling for Partition Resilience </strong> (International Symposium on Reliable Distributed Systems 2023) 
+</summary>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sara Qunaibi, _Sreeharsha Udayashankar_ and Samer Al-Kiswany
+</details>
+
 <br>
 <details> <summary> 
    <strong>DedupBench - A benchmarking tool for data chunking techniques </strong> (IEEE CCECE 2023) <a href="https://cs.uwaterloo.ca/~alkiswan/papers/DedupBench_CCECE23.pdf">[PDF]</a>
   </summary>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alan Liu, Abdelrahman Ba'ba', _Sreeharsha Udayashankar_ and Samer Al-Kiswany
-</details>
-<br>
-<details> <summary> 
-  <strong> CAS: Connectivity-Aware Scheduling </strong> (International Symposium on Reliable Distributed Systems 2023) 
-</summary>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sara Qunaibi, _Sreeharsha Udayashankar_ and Samer Al-Kiswany
 </details>
 <br>
 
