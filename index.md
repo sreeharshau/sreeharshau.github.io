@@ -80,6 +80,20 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 </details>
 <br>
 
+# Patents
+
+<details> 
+  <summary>
+    <strong> System and method of deduplication for encrypted content </strong> <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Best patent award at Acronis 2023 </em>
+  </summary>
+  <br>
+  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Sreeharsha Udayashankar_, Abdelrahman Ba'ba', Samer Al-Kiswany, Serg Bell and Stanislav Protasov
+   
+ 
+</details>
+
 # Side Projects
 
 In my spare time, I develop applications with a variety of languages and tools. Some of these projects and their source code are showcased in this section.
