@@ -82,6 +82,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 
 # Patents
 
+<br>
 <details> 
   <summary>
     <strong> System and method of deduplication for encrypted content </strong> <br>
