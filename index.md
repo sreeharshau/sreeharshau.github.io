@@ -90,9 +90,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
   </summary>
   <br>
   
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Sreeharsha Udayashankar_, Abdelrahman Ba'ba', Samer Al-Kiswany, Serg Bell and Stanislav Protasov
-   
- 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Sreeharsha Udayashankar_, Abdelrahman Ba'ba', Samer Al-Kiswany, Serg Bell and Stanislav Protasov
 </details>
 <br>
 
