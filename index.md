@@ -94,6 +94,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
    
  
 </details>
+<br>
 
 # Side Projects
 
