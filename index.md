@@ -17,8 +17,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 
 <br>
 <details> <summary> 
-  <strong> CASPR: Connectivity-Aware Scheduling for Partition Resilience </strong> 
-  
+  <strong> CASPR: Connectivity-Aware Scheduling for Partition Resilience </strong> <br>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>International Symposium on Reliable Distributed Systems (SRDS), 2023</em> 
 </summary>
   
@@ -27,8 +26,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 
 <br>
 <details> <summary> 
-   <strong>DedupBench - A benchmarking tool for data chunking techniques </strong><a href="https://cs.uwaterloo.ca/~alkiswan/papers/DedupBench_CCECE23.pdf">[PDF]</a>
-    
+   <strong>DedupBench - A benchmarking tool for data chunking techniques </strong><a href="https://cs.uwaterloo.ca/~alkiswan/papers/DedupBench_CCECE23.pdf">[PDF]</a><br>    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), 2023</em>
   </summary>
   
@@ -37,8 +35,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 <br>
 
 <details> <summary> 
-  <strong> Partial Network Partitioning </strong> <a href="https://dl.acm.org/doi/10.1145/3576192">[Paper]</a> <a href="https://dl.acm.org/doi/pdf/10.1145/3576192">[PDF]</a>
-
+  <strong> Partial Network Partitioning </strong> <a href="https://dl.acm.org/doi/10.1145/3576192">[Paper]</a> <a href="https://dl.acm.org/doi/pdf/10.1145/3576192">[PDF]</a><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>ACM Transactions on Computer Systems (TOCS), 2022</em>
 </summary>
   
@@ -47,8 +44,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 <br>
 
 <details> <summary> 
- <strong> Orcbench: A Representative Serverless Benchmark </strong> <a href="https://ieeexplore.ieee.org/document/9860528")>[Paper]</a> <a href="https://rcs.uwaterloo.ca/~ryan/files/orcbench.pdf">[PDF]</a> 
-
+ <strong> Orcbench: A Representative Serverless Benchmark </strong> <a href="https://ieeexplore.ieee.org/document/9860528")>[Paper]</a> <a href="https://rcs.uwaterloo.ca/~ryan/files/orcbench.pdf">[PDF]</a><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>IEEE International Conference on Cloud Computing (CLOUD), 2022</em>
 </summary>
  
@@ -57,9 +53,8 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 <br>
 
 <details> <summary> 
- <strong> Benchmarking Diferentially Private Algorithms </strong> <a href="https://tpdp.journalprivacyconfidentiality.org/2021/papers/NingUQKH21.pdf">[PDF]</a>
-
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Theory and Practice of Differential Privacy (TPDP), 2021</em>
+ <strong> Benchmarking Diferentially Private Algorithms </strong> <a href="https://tpdp.journalprivacyconfidentiality.org/2021/papers/NingUQKH21.pdf">[PDF]</a><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Theory and Practice of Differential Privacy (TPDP), 2021</em>
 </summary>
    
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Huiyi Ning, _Sreeharsha Udayashankar_, Sara Qunaibi, Karl Knopf and Xi He
@@ -67,8 +62,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 <br>
 
 <details> <summary> 
- <strong> In-Network Scheduling for Real-Time Analytics </strong> <a href="https://uwspace.uwaterloo.ca/handle/10012/16922">[Thesis]</a>
-
+ <strong> In-Network Scheduling for Real-Time Analytics </strong> <a href="https://uwspace.uwaterloo.ca/handle/10012/16922">[Thesis]</a><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>MMath Thesis, 2021</em> 
 </summary>
   
@@ -77,8 +71,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 <br>
 
 <details> <summary>
- <strong> Falcon - Low Latency Network Accelerated Scheduling </strong> <a href="https://dl.acm.org/doi/10.1145/3426744.3431322">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/Falcon-EuroP420.pdf">[PDF]</a>
-  
+ <strong> Falcon - Low Latency Network Accelerated Scheduling </strong> <a href="https://dl.acm.org/doi/10.1145/3426744.3431322">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/Falcon-EuroP420.pdf">[PDF]</a><br>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>P4 Workshop in Europe (EuroP4), 2020</em>
   
 </summary>
@@ -88,8 +81,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 <br>
 
 <details> <summary> 
- <strong> Gaming Modeling and Projections - The Impact of CPU Performance </strong>
-
+ <strong> Gaming Modeling and Projections - The Impact of CPU Performance </strong><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>AMD Asia Technical Conference (AATC), 2019</em>
 </summary>
   
