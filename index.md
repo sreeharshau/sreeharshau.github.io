@@ -18,7 +18,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 <br>
 <details> <summary> 
   <strong> CASPR: Connectivity-Aware Scheduling for Partition Resilience </strong> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/CASRP_SRDS23.pdf">[PDF]</a> <br>  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:olivedrab">Best Paper Award Nominee</code> <br>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>International Symposium on Reliable Distributed Systems (SRDS), 2023</em> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkorange">Best Paper Award Nominee</code> <br>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>International Symposium on Reliable Distributed Systems (SRDS), 2023</em> 
 </summary>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sara Qunaibi, _Sreeharsha Udayashankar_ and Samer Al-Kiswany
