@@ -17,7 +17,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 
 <br>
 <details> <summary> 
-  <strong> CASPR: Connectivity-Aware Scheduling for Partition Resilience </strong> <br>  
+  <strong> CASPR: Connectivity-Aware Scheduling for Partition Resilience </strong> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/CASRP_SRDS23.pdf">[PDF]</a> <br>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>International Symposium on Reliable Distributed Systems (SRDS), 2023</em> 
 </summary>
   
