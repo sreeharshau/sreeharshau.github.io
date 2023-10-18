@@ -19,7 +19,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 <details> <summary> 
   <strong> CASPR: Connectivity-Aware Scheduling for Partition Resilience </strong> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/CASRP_SRDS23.pdf">[PDF]</a> <br>  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>International Symposium on Reliable Distributed Systems (SRDS), 2023</em> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkorange">Best Paper Award Nominee</code>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:seagreen">Best Paper Award Nominee</code>
 </summary>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sara Qunaibi, _Sreeharsha Udayashankar_ and Samer Al-Kiswany
@@ -96,7 +96,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 <details> 
   <summary>
     <strong> System and method of deduplication for encrypted content </strong> <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkorange">Best Patent Award for 2023  - Acronis</code>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:seagreen">Best Patent Award for 2023  - Acronis</code>
   </summary>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Sreeharsha Udayashankar_, Abdelrahman Ba'ba', Samer Al-Kiswany, Serg Bell and Stanislav Protasov
