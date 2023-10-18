@@ -27,7 +27,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 
 <br>
 <details> <summary> 
-   <strong>DedupBench - A benchmarking tool for data chunking techniques </strong><a href="https://cs.uwaterloo.ca/~alkiswan/papers/DedupBench_CCECE23.pdf">[PDF]</a><br>    
+   <strong>DedupBench - A Benchmarking Tool for Data Chunking Techniques </strong><a href="https://cs.uwaterloo.ca/~alkiswan/papers/DedupBench_CCECE23.pdf">[PDF]</a><br>    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), 2023</em>
   </summary>
   
@@ -96,7 +96,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 <details> 
   <summary>
     <strong> System and method of deduplication for encrypted content </strong> <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Best patent award at Acronis, 2023</em>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkorange">Best Patent Award for 2023  - Acronis</code>
   </summary>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Sreeharsha Udayashankar_, Abdelrahman Ba'ba', Samer Al-Kiswany, Serg Bell and Stanislav Protasov
