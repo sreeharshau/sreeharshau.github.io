@@ -27,7 +27,7 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 
 <br>
 <details> <summary> 
-   <strong>DedupBench - A Benchmarking Tool for Data Chunking Techniques </strong><a href="https://cs.uwaterloo.ca/~alkiswan/papers/DedupBench_CCECE23.pdf">[PDF]</a><br>    
+   <strong>DedupBench - A Benchmarking Tool for Data Chunking Techniques </strong><a href="https://ieeexplore.ieee.org/document/10288834">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/DedupBench_CCECE23.pdf">[PDF]</a><br>    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), 2023</em>
   </summary>
   
