@@ -17,6 +17,16 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 
 <br>
 <details> <summary> 
+  <strong> LoLKV: The Logless Linearizable Key-Value Storage System </strong>
+  <br>  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2024</em> <br>
+  </summary>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ahmed Alquraan, _Sreeharsha Udayashankar_, Virendra Marathe, Bernard Wong and Samer Al-Kiswany
+</details>
+
+<br>
+<details> <summary> 
   <strong> CASPR: Connectivity-Aware Scheduling for Partition Resilience </strong> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/CASRP_SRDS23.pdf">[PDF]</a> <br>  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>International Symposium on Reliable Distributed Systems (SRDS), 2023</em> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkred">Best Paper Award Nominee</code>
