@@ -17,9 +17,8 @@ I have experience developing systems in numerous languages such as C, C++, Java,
 
 <br>
 <details> <summary> 
-  <strong> LoLKV: The Logless Linearizable Key-Value Storage System </strong>
-  <br>  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2024</em> <br>
+  <strong> LoLKV: The Logless Linearizable Key-Value Storage System </strong> <br>  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2024</em> <br>
   </summary>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ahmed Alquraan, _Sreeharsha Udayashankar_, Virendra Marathe, Bernard Wong and Samer Al-Kiswany
