@@ -1,6 +1,7 @@
 <img src="Title_Image_2.jpg" width=350 align=left>
 
 <p float=right>
+  
 I am Sreeharsha, a computer science researcher interested in Systems and Networking. I am currently enrolled in the Computer Science PhD program at the [University of Waterloo](https://uwaterloo.ca/). I work with the [Waterloo Advanced Systems Lab](https://wasl.uwaterloo.ca/), advised by [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html).
 
 I focus on research involving recent networking advances, network failure analysis and data deduplication for cloud-based systems. I am currently working on improving content-defined data chunking techniques and enhancing security guarantees within deduplication systems.
@@ -8,7 +9,7 @@ I focus on research involving recent networking advances, network failure analys
 Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design Engineer and have received my master's degree in computer science from the [University of Waterloo](https://uwaterloo.ca/).
 </p>
 
-<br>
+<br clear="left">
 
 # Publications
 
