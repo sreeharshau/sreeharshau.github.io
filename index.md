@@ -1,4 +1,4 @@
-<img src="Title_Image_2.jpg" width=350 align=left class="padded-image">
+<img src="Title_Image_2.jpg" width=250 align=left class="padded-image">
 
 <p float=right>
   
