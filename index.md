@@ -1,4 +1,4 @@
-<img align="left" src="Title_Image_2.jpg">
+&nbsp;&nbsp;&nbsp;&nbsp;<img align="right" src="Title_Image_2.jpg">
 
 I am Sreeharsha, a computer science researcher interested in Systems and Networking. I am currently enrolled in the Computer Science PhD program at the [University of Waterloo](https://uwaterloo.ca/). I work with the [Waterloo Advanced Systems Lab](https://wasl.uwaterloo.ca/), advised by [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html).
 
@@ -6,7 +6,7 @@ I have worked on research projects involving recent networking advances (RDMA an
 
 Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design Engineer and have received my master's degree in computer science from the [University of Waterloo](https://uwaterloo.ca/).
 
-<br clear="left"/>
+<br clear="right"/>
 
 # Publications
 
