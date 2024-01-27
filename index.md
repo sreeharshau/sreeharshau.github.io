@@ -1,4 +1,4 @@
-<img align="right" width=300 src="Title_Image_2.jpg">
+<img align="right" width=400 src="Title_Image_2.jpg">
 
 I am Sreeharsha, a computer science researcher interested in Systems and Networking. I am currently enrolled in the Computer Science PhD program at the [University of Waterloo](https://uwaterloo.ca/). I work with the [Waterloo Advanced Systems Lab](https://wasl.uwaterloo.ca/), advised by [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html).
 
