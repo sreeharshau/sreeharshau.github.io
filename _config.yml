@@ -24,4 +24,4 @@ social-network-links:
   linkedin: sreeharshau
   github: sreeharshau
  
-css: custom_style.css
+css: "/custom_style.css"
