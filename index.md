@@ -1,5 +1,7 @@
 <img align="right" src="Title_Image_2.jpg">
 
+# Sreeharsha Udayashankar
+
 I am Sreeharsha, a computer science researcher interested in Systems and Networking. I am currently enrolled in the Computer Science PhD program at the [University of Waterloo](https://uwaterloo.ca/). I work with the [Waterloo Advanced Systems Lab](https://wasl.uwaterloo.ca/), advised by [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html).
 
 I have worked on research projects involving recent networking advances (RDMA and P4 programmable switches), network failure analysis and data deduplication for cloud-based systems. I am currently working on improving content-defined data chunking techniques and enhancing security guarantees within deduplication systems.
