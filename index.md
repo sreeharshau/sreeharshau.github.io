@@ -20,7 +20,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 
 <br>
 <details> <summary> 
-  <strong> LoLKV: The Logless Linearizable Key-Value Storage System </strong> <br>  
+  <strong> LoLKV: The Logless Linearizable Key-Value Storage System </strong> <a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan">[Paper]</a> <br>  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2024</em> <br>
   </summary>
   
@@ -29,7 +29,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 
 <br>
 <details> <summary> 
-  <strong> CASPR: Connectivity-Aware Scheduling for Partition Resilience </strong> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/CASRP_SRDS23.pdf">[PDF]</a> <br>  
+  <strong> CASPR: Connectivity-Aware Scheduling for Partition Resilience </strong> <a href="https://ieeexplore.ieee.org/abstract/document/10419277">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/CASRP_SRDS23.pdf">[PDF]</a> <br>  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>International Symposium on Reliable Distributed Systems (SRDS), 2023</em> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkred">Best Paper Award Nominee</code>
 </summary>
