@@ -10,7 +10,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 # Publications
 
 <br>
-<details> <summary> 
+<details> <summary> [1]
   <strong> Draconis: Network Accelerated Scheduling for Micro-Scale Workloads </strong> <br>  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>European Conference on Computer Systems (EuroSys) , 2024</em> <br>
   </summary>
@@ -19,8 +19,8 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 </details>
 
 <br>
-<details> <summary> 
-  <strong> LoLKV: The Logless Linearizable Key-Value Storage System </strong> <a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan">[Paper]</a> <br>  
+<details> <summary> [2]
+  <strong>  LoLKV: The Logless Linearizable Key-Value Storage System </strong> <a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan">[Paper]</a> <br>  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2024</em> <br>
   </summary>
   
@@ -28,7 +28,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 </details>
 
 <br>
-<details> <summary> 
+<details> <summary> [3]
   <strong> CASPR: Connectivity-Aware Scheduling for Partition Resilience </strong> <a href="https://ieeexplore.ieee.org/abstract/document/10419277">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/CASRP_SRDS23.pdf">[PDF]</a> <br>  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>International Symposium on Reliable Distributed Systems (SRDS), 2023</em> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkred">Best Paper Award Nominee</code>
@@ -38,7 +38,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 </details>
 
 <br>
-<details> <summary> 
+<details> <summary> [4]
    <strong>DedupBench - A Benchmarking Tool for Data Chunking Techniques </strong><a href="https://ieeexplore.ieee.org/document/10288834">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/DedupBench_CCECE23.pdf">[PDF]</a><br>    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), 2023</em>
   </summary>
@@ -47,7 +47,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 </details>
 <br>
 
-<details> <summary> 
+<details> <summary> [5]
   <strong> Partial Network Partitioning </strong> <a href="https://dl.acm.org/doi/10.1145/3576192">[Paper]</a> <a href="https://dl.acm.org/doi/pdf/10.1145/3576192">[PDF]</a><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>ACM Transactions on Computer Systems (TOCS), 2022</em>
 </summary>
@@ -56,7 +56,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 </details>
 <br>
 
-<details> <summary> 
+<details> <summary> [6]
  <strong> Orcbench: A Representative Serverless Benchmark </strong> <a href="https://ieeexplore.ieee.org/document/9860528")>[Paper]</a> <a href="https://rcs.uwaterloo.ca/~ryan/files/orcbench.pdf">[PDF]</a><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>IEEE International Conference on Cloud Computing (CLOUD), 2022</em>
 </summary>
@@ -65,7 +65,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 </details>
 <br>
 
-<details> <summary> 
+<details> <summary> [7]
  <strong> Benchmarking Diferentially Private Algorithms </strong> <a href="https://tpdp.journalprivacyconfidentiality.org/2021/papers/NingUQKH21.pdf">[PDF]</a><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Theory and Practice of Differential Privacy (TPDP), 2021</em>
 </summary>
@@ -83,7 +83,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 </details>
 <br>
 
-<details> <summary>
+<details> <summary> [8]
  <strong> Falcon - Low Latency Network Accelerated Scheduling </strong> <a href="https://dl.acm.org/doi/10.1145/3426744.3431322">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/Falcon-EuroP420.pdf">[PDF]</a><br>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>P4 Workshop in Europe (EuroP4), 2020</em>
   
@@ -93,7 +93,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 </details>
 <br>
 
-<details> <summary> 
+<details> <summary> [9]
  <strong> Gaming Modeling and Projections - The Impact of CPU Performance </strong><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>AMD Asia Technical Conference (AATC), 2019</em>
 </summary>
@@ -106,7 +106,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 
 <br>
 <details> 
-  <summary>
+  <summary> [1]
     <strong> System and method of deduplication for encrypted content </strong> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkred">Best Patent Award for 2023  - Acronis</code>
   </summary>
