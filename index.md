@@ -39,7 +39,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 
 <br>
 <details> <summary> [4]
-   <strong>DedupBench - A Benchmarking Tool for Data Chunking Techniques </strong><a href="https://ieeexplore.ieee.org/document/10288834">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/DedupBench_CCECE23.pdf">[PDF]</a><br>    
+   <strong>DedupBench - Benchmarking for Data Chunking Techniques </strong><a href="https://ieeexplore.ieee.org/document/10288834">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/DedupBench_CCECE23.pdf">[PDF]</a><br>    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), 2023</em>
   </summary>
   
@@ -74,7 +74,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 </details>
 <br>
 
-<details> <summary> 
+<details> <summary> [8]
  <strong> In-Network Scheduling for Real-Time Analytics </strong> <a href="https://uwspace.uwaterloo.ca/handle/10012/16922">[Thesis]</a><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>MMath Thesis, 2021</em> 
 </summary>
@@ -83,7 +83,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 </details>
 <br>
 
-<details> <summary> [8]
+<details> <summary> [9]
  <strong> Falcon - Low Latency Network Accelerated Scheduling </strong> <a href="https://dl.acm.org/doi/10.1145/3426744.3431322">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/Falcon-EuroP420.pdf">[PDF]</a><br>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>P4 Workshop in Europe (EuroP4), 2020</em>
   
@@ -93,7 +93,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 </details>
 <br>
 
-<details> <summary> [9]
+<details> <summary> [10]
  <strong> Gaming Modeling and Projections - The Impact of CPU Performance </strong><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>AMD Asia Technical Conference (AATC), 2019</em>
 </summary>
