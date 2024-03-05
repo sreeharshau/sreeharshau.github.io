@@ -1,6 +1,6 @@
 <img src="Title_Image_2.jpg" width=350>
 
-I am Sreeharsha, a computer science researcher interested in Systems and Networking. I am currently enrolled in the Computer Science PhD program at the [University of Waterloo](https://uwaterloo.ca/). I work with the [Waterloo Advanced Systems Lab](https://wasl.uwaterloo.ca/), advised by [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html).
+I am Sreeharsha, a computer science researcher interested in Distributed Systems. I am currently enrolled in the Computer Science PhD program at the [University of Waterloo](https://uwaterloo.ca/). I work with the [Waterloo Advanced Systems Lab](https://wasl.uwaterloo.ca/), advised by [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html).
 
 I focus on research involving recent networking advances, network failure analysis and data deduplication for cloud-based systems. I am currently working on improving content-defined data chunking techniques and enhancing security guarantees within deduplication systems.
 
@@ -11,7 +11,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 
 <br>
 <details> <summary> [1]
-  <strong> Draconis: Network Accelerated Scheduling for Micro-Scale Workloads </strong> <br>  
+  <strong> Draconis: Network Accelerated Scheduling for Microsecond-Scale Workloads </strong> <br>  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>European Conference on Computer Systems (EuroSys) , 2024</em> <br>
   </summary>
   
