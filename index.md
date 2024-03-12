@@ -12,7 +12,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 <br>
 <details> <summary> [1]
   <strong> Draconis: Network Accelerated Scheduling for Microsecond-Scale Workloads </strong> <br>  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>European Conference on Computer Systems (EuroSys) , 2024</em> <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>European Conference on Computer Systems (EuroSys), 2024</em> <br>
   </summary>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  _Sreeharsha Udayashankar_, Ashraf Abdel-Hadi, Ali Mashtizadeh and Samer Al-Kiswany
