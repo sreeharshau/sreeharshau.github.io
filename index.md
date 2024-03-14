@@ -11,7 +11,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 
 <br>
 <details> <summary> [1]
-  <strong> Draconis: Network Accelerated Scheduling for Microsecond-Scale Workloads </strong> <br>  
+  <strong> Draconis: Network Accelerated Scheduling for Microsecond-Scale Workloads </strong> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/Draconis-EuroSys24.pdf">[PDF]</a> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>European Conference on Computer Systems (EuroSys), 2024</em> <br>
   </summary>
   
@@ -20,7 +20,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 
 <br>
 <details> <summary> [2]
-  <strong>  LoLKV: The Logless Linearizable Key-Value Storage System </strong> <a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan">[Paper]</a> <br>  
+  <strong>  LoLKV: The Logless Linearizable Key-Value Storage System </strong> <a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan">[Paper]</a> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/LoLKV-NSDI24.pdf">[PDF]</a> <br>  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2024</em> <br>
   </summary>
   
