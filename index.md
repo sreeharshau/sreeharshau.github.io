@@ -11,7 +11,7 @@ Prior to this, I have worked at [AMD](https://www.amd.com/en.html) as a Design E
 
 <br>
 <details> <summary> [1]
-  <strong> Draconis: Network Accelerated Scheduling for Microsecond-Scale Workloads </strong> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/Draconis-EuroSys24.pdf">[PDF]</a> <br>
+  <strong> Draconis: Network-Accelerated Scheduling for Micro-Scale Workloads </strong> <a href="https://cs.uwaterloo.ca/~alkiswan/papers/Draconis-EuroSys24.pdf">[PDF]</a> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>European Conference on Computer Systems (EuroSys), 2024</em> <br>
   </summary>
   
