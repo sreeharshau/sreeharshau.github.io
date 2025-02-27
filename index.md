@@ -20,7 +20,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
   </summary>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small>
 </details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usenix.org/conference/fast25/presentation/udayashankar"><img height="25" src="images/icon-link.png" /></a> <a href="papers/VectorCDC_FAST25.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="https://github.com/UWASL/dedup-bench"><img height="25" src="images/icon-code.png" /></a> <a href="https://www.kaggle.com/datasets/sreeharshau/vm-deb-fast25"><img height="25" src="images/icon-dataset.png" /></a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usenix.org/conference/fast25/presentation/udayashankar"><img height="25" src="images/icon-link.png" /></a> <a href="papers/VectorCDC_FAST25.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="papers/VectorCDC_FAST25_Slides.pdf"><img height="25" src="images/icon-slides.png" /></a> <a href="https://github.com/UWASL/dedup-bench"><img height="25" src="images/icon-code.png" /></a> <a href="https://www.kaggle.com/datasets/sreeharshau/vm-deb-fast25"><img height="25" src="images/icon-dataset.png" /></a><br>
 
 <br>
 <details> <summary> [2]
@@ -66,12 +66,19 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 <br>
 <details> 
   <summary> [1]
-    <strong> System and method of deduplication for encrypted content </strong> <br>
+    <strong> Systems and methods of secure deduplication for encrypted content </strong> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkred"><small>Best Patent Award for 2023  - Acronis</small></code>
   </summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Ba'ba', Samer Al-Kiswany, Serg Bell and Stanislav Protasov</small><br>
  </details>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://patents.google.com/patent/US20250005171A1/en"><img height="25" src="images/icon-patent.png" /></a>
+<br>
+<details> 
+  <summary> [2]
+    <strong> Systems and methods for connectivity-aware scheduling </strong> <br>
+  </summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Sara Qunaibi, <em>Sreeharsha Udayashankar</em>, Samer Al-Kiswany, Serg Bell and Stanislav Protasov</small><br>
+ </details>
 <br>
 
 ## Scholarships and Awards
