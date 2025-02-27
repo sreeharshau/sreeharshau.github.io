@@ -72,8 +72,8 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Ba'ba', Samer Al-Kiswany, Serg Bell and Stanislav Protasov</small><br>
  </details>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://patents.google.com/patent/US20250005171A1/en"><img height="25" src="images/icon-patent.png" /></a>
-<br>
 
+<br>
 <details> 
   <summary> [2]
     <strong> Systems and methods for connectivity-aware scheduling </strong> <br>
