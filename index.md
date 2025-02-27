@@ -73,6 +73,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
  </details>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://patents.google.com/patent/US20250005171A1/en"><img height="25" src="images/icon-patent.png" /></a>
 <br>
+
 <details> 
   <summary> [2]
     <strong> Systems and methods for connectivity-aware scheduling </strong> <br>
