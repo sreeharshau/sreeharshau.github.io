@@ -7,7 +7,7 @@ This page contains my full list of publications with links. They can also be fou
   </summary>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small>
 </details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usenix.org/conference/fast25/presentation/udayashankar"><img height="25" src="images/icon-link.png" /></a> <a href="papers/VectorCDC_FAST25.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="https://github.com/UWASL/dedup-bench"><img height="25" src="images/icon-code.png" /></a> <a href="https://www.kaggle.com/datasets/sreeharshau/vm-deb-fast25"><img height="25" src="images/icon-dataset.png" /></a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usenix.org/conference/fast25/presentation/udayashankar"><img height="25" src="images/icon-link.png" /></a> <a href="papers/VectorCDC_FAST25.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="papers/VectorCDC_FAST25_Slides.pdf"><img height="25" src="images/icon-slides.png" /></a> <a href="https://github.com/UWASL/dedup-bench"><img height="25" src="images/icon-code.png" /></a> <a href="https://www.kaggle.com/datasets/sreeharshau/vm-deb-fast25"><img height="25" src="images/icon-dataset.png" /></a><br>
 
 <br>
 <details> <summary> [14]
