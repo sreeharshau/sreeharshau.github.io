@@ -2,7 +2,7 @@ This page contains my full list of publications with links. They can also be fou
 ## Papers
 <br>
 <details> <summary> [15]
-  <strong> VectorCDC: Accelerating Data Deduplication with SSE/AVX Instructions </strong> <br>
+  <strong> VectorCDC: Accelerating Data Deduplication with Vector Instructions </strong> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>USENIX Conference on File and Storage Technologies (FAST), 2025</em></small> <br>
   </summary>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small>
