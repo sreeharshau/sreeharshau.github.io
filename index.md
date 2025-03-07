@@ -80,6 +80,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
   </summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Sara Qunaibi, <em>Sreeharsha Udayashankar</em>, Samer Al-Kiswany, Serg Bell and Stanislav Protasov</small><br>
  </details>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://patents.google.com/patent/US20250061001A1/en"><img height="25" src="images/icon-patent.png" /></a><br>
 
 ## Scholarships and Awards
 <br>
