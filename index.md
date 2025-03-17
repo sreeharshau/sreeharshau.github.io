@@ -24,12 +24,13 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 
 <br>
 <details> <summary> [2]
-  <strong> SeqCDC: Hashless Content-Defined Chunking for Data Deduplication </strong><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IFIP International Middleware Conference (MIDDLEWARE), 2024</em></small>
+  <strong> Measuring the runtime performance of C++ code written using GitHub CoPilot </strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IEEE International Conference on Software Engineering (ICSE), 2025</em></small>
   </summary> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Daniel Erhabor, <em>Sreeharsha Udayashankar</em>, Meiyappan Nagappan and Samer Al-Kiswany </small> 
 </details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3652892.3700766"><img height="25" src="images/icon-link.png" /></a> <a href="papers/SeqCDC_Middleware24.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="papers/SeqCDC_Middleware24_Slides.pdf"><img height="25" src="images/icon-slides.png" /></a> <a href="https://github.com/UWASL/dedup-bench"><img height="25" src="images/icon-code.png" /></a> <a href="https://www.kaggle.com/datasets/sreeharshau/vm-deb-fast25"><img height="25" src="images/icon-dataset.png" /></a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="papers/Copilot_ICSE25.pdf"><img height="25" src="images/icon-pdf.png" /></a>  <a href="https://zenodo.org/records/14743231"><img height="25" src="images/icon-code.png" /></a><br>
+
 
 <br>
 <details> <summary> [3]
