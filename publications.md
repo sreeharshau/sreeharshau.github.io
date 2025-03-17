@@ -5,23 +5,24 @@ This page contains my full list of publications with links. They can also be fou
 
 #### 2025 
 ---
-<br>
-<details> <summary> [15]
-  <strong> VectorCDC: Accelerating Data Deduplication with Vector Instructions </strong> <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>USENIX Conference on File and Storage Technologies (FAST), 2025</em></small> <br>
-  </summary>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small>
-</details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usenix.org/conference/fast25/presentation/udayashankar"><img height="25" src="images/icon-link.png" /></a> <a href="papers/VectorCDC_FAST25.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="papers/VectorCDC_FAST25_Slides.pdf"><img height="25" src="images/icon-slides.png" /></a> <a href="https://github.com/UWASL/dedup-bench"><img height="25" src="images/icon-code.png" /></a> <a href="https://www.kaggle.com/datasets/sreeharshau/vm-deb-fast25"><img height="25" src="images/icon-dataset.png" /></a><br>
 
 <br>
-<details> <summary> [14]
+<details> <summary> [15]
   <strong> Measuring the runtime performance of C++ code written using GitHub CoPilot </strong><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IEEE International Conference on Software Engineering (ICSE), 2025</em></small>
   </summary> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Daniel Erhabor, <em>Sreeharsha Udayashankar</em>, Meiyappan Nagappan and Samer Al-Kiswany </small> 
 </details>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="papers/Copilot_ICSE25.pdf"><img height="25" src="images/icon-pdf.png" /></a>  <a href="https://zenodo.org/records/14743231"><img height="25" src="images/icon-code.png" /></a><br>
+
+<br>
+<details> <summary> [14]
+  <strong> VectorCDC: Accelerating Data Deduplication with Vector Instructions </strong> <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>USENIX Conference on File and Storage Technologies (FAST), 2025</em></small> <br>
+  </summary>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small>
+</details>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usenix.org/conference/fast25/presentation/udayashankar"><img height="25" src="images/icon-link.png" /></a> <a href="papers/VectorCDC_FAST25.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="papers/VectorCDC_FAST25_Slides.pdf"><img height="25" src="images/icon-slides.png" /></a> <a href="https://github.com/UWASL/dedup-bench"><img height="25" src="images/icon-code.png" /></a> <a href="https://www.kaggle.com/datasets/sreeharshau/vm-deb-fast25"><img height="25" src="images/icon-dataset.png" /></a><br>
 
 <br>
 
