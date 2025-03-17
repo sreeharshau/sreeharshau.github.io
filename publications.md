@@ -1,6 +1,7 @@
 This page contains my full list of publications with links. They can also be found on my [Google Scholar profile](https://scholar.google.com/citations?user=6WkIqjkAAAAJ&hl=en).
 ## Papers
 
+<br>
 
 #### 2025 
 ---
@@ -22,6 +23,7 @@ This page contains my full list of publications with links. They can also be fou
 </details>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="papers/Copilot_ICSE25.pdf"><img height="25" src="images/icon-pdf.png" /></a>  <a href="https://zenodo.org/records/14743231"><img height="25" src="images/icon-code.png" /></a><br>
 
+<br>
 
 #### 2024
 ---
@@ -70,6 +72,7 @@ This page contains my full list of publications with links. They can also be fou
 </details>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan"><img height="25" src="images/icon-link.png" /></a> <a href="papers/LoLKV_NSDI24.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="papers/LoLKV_NSDI24_Slides.pdf"><img height="25" src="images/icon-slides.png" /></a> <a href="https://www.youtube.com/watch?v=mgJoHFi845c"><img height="25" src="images/icon-video.png" /></a><br>
 
+<br>
 
 #### 2023
 ---
@@ -101,6 +104,7 @@ This page contains my full list of publications with links. They can also be fou
 </details>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3576192"><img height="25" src="images/icon-link.png" /></a> <a href="papers/NIFTY_TOCS22.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="https://github.com/UWASL/NIFTY"><img height="25" src="images/icon-code.png" /></a><br>
 
+<br>
 
 #### 2022 and beyond
 ---
