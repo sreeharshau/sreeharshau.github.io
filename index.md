@@ -6,7 +6,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 
 ###### Updates
 ---
-* <small> <font style="color:gray"><b><em>Mar 2025</em>.</b></font> I will be presenting our work on deduplication at the University of Wisconsin's <a href="https://madsystems.cs.wisc.edu/seminar.html">Systems Seminar</a>. </small>
+* <small> <font style="color:gray"><b><em>Mar 2025</em>.</b></font> I will be presenting our work on deduplication at the Wisconsin <a href="https://madsystems.cs.wisc.edu/seminar.html">Systems Seminar</a>. </small>
 * <small> <font style="color:gray"><b><em>Feb 2025</em>.</b></font> I presented VectorCDC at <a href="https://www.usenix.org/conference/fast25/technical-sessions">FAST 2025</a> in Santa Clara, California.</small>
 * <small> <font style="color:gray"><b><em>Jan 2025</em>.</b></font> I have been awarded the <a href="https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship">Cheriton Graduate Scholarship</a> for 2024-2026! </small>
  ---
