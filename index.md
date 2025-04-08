@@ -118,6 +118,4 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
   </summary>
 </details>
 
-  
-
-<iframe src="https://www.youtube-nocookie.com/embed/K4x-uqLl_m4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/LgWX2sPZQsE/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
