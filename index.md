@@ -1,7 +1,5 @@
 <img src="images/Title_Image_2.jpg" width=350>
 
-{% include youtube.html id="JLMbpiywVxQ" %}
-
 I am Sreeharsha, a computer science PhD student at the [University of Waterloo](https://uwaterloo.ca/), advised by [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html). My research spans distributed systems, focusing on enabling the next generation of data center workloads by targeting scheduling, low-latency online data storage, efficient offline storage, and system reliability. 
 
 During my PhD, I interned with the Liquid Graph database team at [LinkedIn](https://www.linkedin.com/). Before this, I worked at [AMD](https://www.amd.com/en.html) for a few years on CPU performance (including the [Ryzen](https://www.amd.com/en/products/processors/desktops/ryzen.html) series!).  I spent a few summers during my undergraduate studies interning at [Philips](https://www.philips.com/global) and the [Indian Institute of Science](https://iisc.ac.in/).
@@ -23,6 +21,8 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small>
 </details>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usenix.org/conference/fast25/presentation/udayashankar"><img height="25" src="images/icon-link.png" /></a> <a href="papers/VectorCDC_FAST25.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="papers/VectorCDC_FAST25_Slides.pdf"><img height="25" src="images/icon-slides.png" /></a> <a href="https://www.youtube.com/watch?v=3d2154j7tWk"><img height="25" src="images/icon-video.png" /></a> <a href="https://github.com/UWASL/dedup-bench"><img height="25" src="images/icon-code.png" /></a> <a href="https://www.kaggle.com/datasets/sreeharshau/vm-deb-fast25"><img height="25" src="images/icon-dataset.png" /></a><br>
+
+<iframe src="https://www.youtube-nocookie.com/embed/K4x-uqLl_m4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <details> <summary> [2]
