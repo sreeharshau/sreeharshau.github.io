@@ -22,11 +22,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 </details>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usenix.org/conference/fast25/presentation/udayashankar"><img height="25" src="images/icon-link.png" /></a> <a href="papers/VectorCDC_FAST25.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="papers/VectorCDC_FAST25_Slides.pdf"><img height="25" src="images/icon-slides.png" /></a> <a href="https://www.youtube.com/watch?v=3d2154j7tWk"><img height="25" src="images/icon-video.png" /></a> <a href="https://github.com/UWASL/dedup-bench"><img height="25" src="images/icon-code.png" /></a> <a href="https://www.kaggle.com/datasets/sreeharshau/vm-deb-fast25"><img height="25" src="images/icon-dataset.png" /></a><br>
 
-{% raw %}
-{% include youtube.html id="3d2154j7tWk" %}  
-{% endraw %}
-
-{% include youtube.html id="3d2154j7tWk" %}  
+<iframe width="745" height="420" src="https://www.youtube.com/embed/3d2154j7tWk" title="FAST &#39;25 - VectorCDC: Accelerating Data Deduplication with Vector Instructions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
 <br>
 <details> <summary> [2]
