@@ -117,3 +117,5 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>AMD, 2017</em></small>
   </summary>
 </details>
+
+<video src="https://www.youtube.com/embed/3d2154j7tWk" />
