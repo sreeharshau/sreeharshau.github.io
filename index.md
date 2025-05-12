@@ -66,39 +66,36 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 <br>
 <details> 
   <summary> [1]
-    <strong> Systems and methods of secure deduplication for encrypted content </strong> <br>
+    <strong><a href="https://patents.google.com/patent/US20250005171A1/en"> Systems and methods of secure deduplication for encrypted content </strong></a> <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkred"><small>Best Patent Award for 2023  - Acronis</small></code>
   </summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Samer Al-Kiswany, <em>Sreeharsha Udayashankar</em>, Abdelrahman Baba, Serg Bell and Stanislav Protasov</small><br>
  </details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://patents.google.com/patent/US20250005171A1/en"><img height="25" src="images/icon-patent.png" /></a><br>
+
 
 <br>
 <details> 
   <summary> [2]
-    <strong> Systems and methods for connectivity-aware scheduling </strong> <br>
+    <strong><a href="https://patents.google.com/patent/US20250061001A1/en">Systems and methods for connectivity-aware scheduling</a></strong> <br>
   </summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Sara Qunaibi, <em>Sreeharsha Udayashankar</em>, Samer Al-Kiswany, Serg Bell and Stanislav Protasov</small><br>
  </details>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://patents.google.com/patent/US20250061001A1/en"><img height="25" src="images/icon-patent.png" /></a><br>
-
+ 
  <br>
 <details> 
   <summary> [3]
-    <strong> Systems and methods for executing jump-based content-defined chunking </strong> <br>
+    <strong><a href="https://patents.google.com/patent/US20250110924A1/en"> Systems and methods for executing jump-based content-defined chunking </strong></a> <br>
   </summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Abdelrahman Baba, <em>Sreeharsha Udayashankar</em>, Samer Al-Kiswany, Serg Bell and Stanislav Protasov</small><br>
  </details>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://patents.google.com/patent/US20250110924A1/en"><img height="25" src="images/icon-patent.png" /></a><br>
 
   <br>
 <details> 
   <summary> [4]
-    <strong> Systems and methods for performing network-accelerated scheduling </strong> <br>
+    <strong> <a href="https://patents.google.com/patent/US20250117249A1/en">Systems and methods for performing network-accelerated scheduling</a></strong> <br>
   </summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Samer Al-Kiswany, Serg Bell and Stanislav Protasov</small><br>
  </details>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://patents.google.com/patent/US20250117249A1/en"><img height="25" src="images/icon-patent.png" /></a><br>
 
 ## Scholarships and Awards
 <br>
