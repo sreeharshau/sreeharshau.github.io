@@ -7,6 +7,15 @@ This page contains my full list of publications with links. They can also be fou
 ---
 
 <br>
+<details> <summary> [16]
+  <strong> Vectorized Sequence-Based Chunking for Data Deduplication </strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>arXiv Preprint, 2025</em></small>
+  </summary> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, and Samer Al-Kiswany </small> 
+</details>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/abs/2505.21194"><img height="25" src="images/icon-link.png" /></a> <a href="papers/VectorizedSeq_arXiv25.pdf"><img height="25" src="images/icon-pdf.png" /></a><br>
+
+<br>
 <details> <summary> [15]
   <strong> Measuring the runtime performance of C++ code written using GitHub CoPilot </strong><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IEEE International Conference on Software Engineering (ICSE), 2025</em></small>
