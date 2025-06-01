@@ -60,7 +60,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10419277"><img height="25" src="images/icon-link.png" /></a> <a href="papers/CASPR_SRDS23.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="https://github.com/UWASL/CASPR"><img height="25" src="images/icon-code.png" /></a><br>
 
 <br>
-<strong><a href="https://sreeharshau.github.io/publications">+10 more</a></strong> 
+<strong><a href="https://sreeharshau.github.io/publications">+11 more</a></strong> 
 
 ## Patents
 <br>
