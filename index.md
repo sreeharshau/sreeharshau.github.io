@@ -29,7 +29,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
   </summary> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Daniel Erhabor, <em>Sreeharsha Udayashankar</em>, Meiyappan Nagappan and Samer Al-Kiswany </small> 
 </details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="papers/Copilot_ICSE25.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="papers/Copilot_ICSE25_Slides.pdf"><img height="25" src="images/icon-slides.png" /></a>  <a href="https://zenodo.org/records/14743231"><img height="25" src="images/icon-code.png" /></a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/document/11029749"><img height="25" src="images/icon-link.png" /></a><a href="papers/Copilot_ICSE25.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="papers/Copilot_ICSE25_Slides.pdf"><img height="25" src="images/icon-slides.png" /></a>  <a href="https://zenodo.org/records/14743231"><img height="25" src="images/icon-code.png" /></a><br>
 
 <br>
 <details> <summary> [3]
