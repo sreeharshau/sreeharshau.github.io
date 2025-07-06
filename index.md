@@ -24,15 +24,6 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 
 <br>
 <details> <summary> [2]
-  <strong> Measuring the runtime performance of C++ code written using GitHub CoPilot </strong><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM / IEEE International Conference on Software Engineering (ICSE), 2025</em></small>
-  </summary> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Daniel Erhabor, <em>Sreeharsha Udayashankar</em>, Meiyappan Nagappan and Samer Al-Kiswany </small> 
-</details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/document/11029749"><img height="25" src="images/icon-link.png" /></a><a href="papers/Copilot_ICSE25.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="papers/Copilot_ICSE25_Slides.pdf"><img height="25" src="images/icon-slides.png" /></a>  <a href="https://zenodo.org/records/14743231"><img height="25" src="images/icon-code.png" /></a><br>
-
-<br>
-<details> <summary> [3]
   <strong> Draconis: Network-Accelerated Scheduling for Microsecond-Scale Workloads </strong><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM SIGOPS European Conference on Computer Systems (EuroSys), 2024</em></small>
   </summary>
@@ -41,7 +32,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3627703.3650060"><img height="25" src="images/icon-link.png" /></a> <a href="papers/Draconis_EuroSys24.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="papers/Draconis_EuroSys24_Slides.pdf"><img height="25" src="images/icon-slides.png" /></a> <a href="https://github.com/UWASL/Draconis"><img height="25" src="images/icon-code.png" /></a><br>
 
 <br>
-<details> <summary> [4]
+<details> <summary> [3]
   <strong> LoLKV: The Logless Linearizable Key-Value Storage System </strong> <br>  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2024 </em></small>
   </summary>
@@ -50,17 +41,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan"><img height="25" src="images/icon-link.png" /></a> <a href="papers/LoLKV_NSDI24.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="papers/LoLKV_NSDI24_Slides.pdf"><img height="25" src="images/icon-slides.png" /></a> <a href="https://www.youtube.com/watch?v=mgJoHFi845c"><img height="25" src="images/icon-video.png" /></a><br>
 
 <br>
-<details> <summary> [5]
-  <strong> CASPR: Connectivity-Aware Scheduling for Partition Resilience </strong><br>  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>International Symposium on Reliable Distributed Systems (SRDS), 2023</em></small><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code style="color:darkred"><small>Best Paper Award Nominee</small></code>
-</summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Sara Qunaibi, <em>Sreeharsha Udayashankar</em> and Samer Al-Kiswany </small>
-</details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/10419277"><img height="25" src="images/icon-link.png" /></a> <a href="papers/CASPR_SRDS23.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="https://github.com/UWASL/CASPR"><img height="25" src="images/icon-code.png" /></a><br>
-
-<br>
-<strong><a href="https://sreeharshau.github.io/publications">+11 more</a></strong> 
+<strong><a href="https://sreeharshau.github.io/publications">+13 more</a></strong> 
 
 ## Patents
 <br>
