@@ -1,8 +1,8 @@
-<img src="images/Title_Image_2.jpg" width=350>
+<p style="text-align:center;"><img src="images/Title_Image_2.jpg" width=350></p>
 
-I am Sreeharsha, a computer science PhD student at the [University of Waterloo](https://uwaterloo.ca/), advised by [Prof. Samer Al-Kiswany](https://cs.uwaterloo.ca/~alkiswan/index.html). My research spans distributed systems, focusing on enabling the next generation of data center workloads by targeting scheduling, low-latency online data storage, efficient offline storage, and system reliability. 
+<p style="text-align:justify;">I am Sreeharsha, a computer science PhD student at the <a href="https://uwaterloo.ca/">University of Waterloo</a>, advised by <a href="https://cs.uwaterloo.ca/~alkiswan/index.html">Prof. Samer Al-Kiswany</a>. My research spans distributed systems, focusing on enabling the next generation of data center workloads by targeting scheduling, low-latency online data storage, efficient offline storage, and system reliability.</p>
 
-During my PhD, I interned with the Liquid Graph database team at [LinkedIn](https://www.linkedin.com/). Before this, I worked at [AMD](https://www.amd.com/en.html) for a few years on CPU performance (including the [Ryzen](https://www.amd.com/en/products/processors/desktops/ryzen.html) series!).  I spent a few summers during my undergraduate studies interning at [Philips](https://www.philips.com/global) and the [Indian Institute of Science](https://iisc.ac.in/).
+<p style="text-align:justify;">During my PhD, I interned with the Liquid Graph database team at <a href="https://www.linkedin.com/">LinkedIn</a>. Before this, I worked at <a href="https://www.amd.com/en.html">AMD</a> for a few years on CPU performance (including the <a href="https://www.amd.com/en/products/processors/desktops/ryzen.html">Ryzen</a> series!).  I spent a few summers during my undergraduate studies interning at <a href="https://www.philips.com/global">Philips</a> and the <a href="https://iisc.ac.in/">Indian Institute of Science</a>.</p>
 
 <p style="text-align:center;"><a href="Sreeharsha_Resume.pdf"><img src="images/resume_icon.png" width=30></a> <a href="https://www.linkedin.com/in/sreeharshau/"><img src="images/linkedin_icon.png" width=42></a> <a href="https://scholar.google.ca/citations?user=6WkIqjkAAAAJ&hl=en"><img src="images/google_scholar_icon.png" width=42></a></p>
 
