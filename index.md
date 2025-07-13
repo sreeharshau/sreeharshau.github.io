@@ -49,7 +49,6 @@
 <br>
 <strong><a href="https://sreeharshau.github.io/publications">+13 more</a></strong> 
 
-<hr>
 <h2 style="text-align:center;">Selected Patents</h2>
 <hr>
 
@@ -84,7 +83,6 @@
  <br>
 <strong><a href="https://sreeharshau.github.io/patents">+3 more</a></strong> 
 
-<hr>
 <h2 style="text-align:center;">Scholarships and Awards</h2>
 <hr>
 
