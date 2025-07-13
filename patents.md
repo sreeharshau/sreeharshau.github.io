@@ -6,7 +6,7 @@ This page lists all my patents by year. They can also be found on my [Google Sch
 
 <details> 
   <summary> [6]
-    <strong> <a href="https://patents.google.com/patent/US20250220036A1/en">Systems and methods for testing distributed systems using injected network partitions</a></strong> <br>
+    <strong> <a href="https://patents.google.com/patent/US20250220036A1/en">Systems and methods for testing distributed systems using network partitions</a></strong> <br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>US Patent and Trademark Office, December 2023</em></small>
   </summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seba Khaleel, <small><em>Sreeharsha Udayashankar</em>, Samer Al-Kiswany, Serg Bell and Stanislav Protasov</small><br>
