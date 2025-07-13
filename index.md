@@ -4,7 +4,9 @@ I am Sreeharsha, a computer science PhD student at the [University of Waterloo](
 
 During my PhD, I interned with the Liquid Graph database team at [LinkedIn](https://www.linkedin.com/). Before this, I worked at [AMD](https://www.amd.com/en.html) for a few years on CPU performance (including the [Ryzen](https://www.amd.com/en/products/processors/desktops/ryzen.html) series!).  I spent a few summers during my undergraduate studies interning at [Philips](https://www.philips.com/global) and the [Indian Institute of Science](https://iisc.ac.in/).
 
-<a href="Sreeharsha_Resume.pdf"><img src="images/resume_icon.png" width=30>Resume</a>
+<a href="Sreeharsha_Resume.pdf"><img src="images/resume_icon.png" width=30></a>
+
+<a href="Sreeharsha_Resume.pdf">Resume</a>
 
 
 ###### Updates
