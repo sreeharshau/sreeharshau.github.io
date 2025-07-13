@@ -13,10 +13,11 @@
 * <small> <font style="color:gray"><b><em>Mar 2025</em>.</b></font> I've been invited to present our deduplication work at the <a href="https://madsystems.cs.wisc.edu/seminar.html">Wisconsin Systems Seminar</a>. </small>
 * <small> <font style="color:gray"><b><em>Feb 2025</em>.</b></font> I presented VectorCDC at <a href="https://www.youtube.com/watch?v=3d2154j7tWk">FAST 2025</a> in Santa Clara, California.</small>
 * <small> <font style="color:gray"><b><em>Jan 2025</em>.</b></font> I have been awarded the <a href="https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship">Cheriton Graduate Scholarship</a> for 2024-2026! </small>
- ---
+---
 
 <br>
 <h2 style="text-align:center;">Selected Papers</h2>
+<hr>
 
 <br>
 <details> <summary> [1]
@@ -48,7 +49,10 @@
 <br>
 <strong><a href="https://sreeharshau.github.io/publications">+13 more</a></strong> 
 
+<hr>
 <h2 style="text-align:center;">Selected Patents</h2>
+<hr>
+
 <br>
 <details> 
   <summary> [1]
@@ -80,7 +84,10 @@
  <br>
 <strong><a href="https://sreeharshau.github.io/patents">+3 more</a></strong> 
 
+<hr>
 <h2 style="text-align:center;">Scholarships and Awards</h2>
+<hr>
+
 <br>
 <details> 
   <summary> [1] 
