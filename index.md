@@ -6,8 +6,6 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 
 <a href="Sreeharsha_Resume.pdf"><img src="images/resume_icon.png" width=30></a>
 
-<a href="Sreeharsha_Resume.pdf">Resume</a>
-
 
 ###### Updates
 ---
