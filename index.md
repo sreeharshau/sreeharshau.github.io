@@ -43,7 +43,7 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
 <br>
 <strong><a href="https://sreeharshau.github.io/publications">+13 more</a></strong> 
 
-## Patents
+## Selected Patents
 <br>
 <details> 
   <summary> [1]
@@ -54,33 +54,26 @@ During my PhD, I interned with the Liquid Graph database team at [LinkedIn](http
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Samer Al-Kiswany, <em>Sreeharsha Udayashankar</em>, Abdelrahman Baba, Serg Bell and Stanislav Protasov</small><br>
  </details>
 
-
 <br>
 <details> 
   <summary> [2]
-   <strong><a href="https://patents.google.com/patent/US20250061001A1/en">Systems and methods for connectivity-aware scheduling</a></strong> <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>US Patent and Trademark Office, August 2023</em></small>
-  </summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Sara Qunaibi, <em>Sreeharsha Udayashankar</em>, Samer Al-Kiswany, Serg Bell and Stanislav Protasov</small><br>
- </details>
- 
- <br>
-<details> 
-  <summary> [3]
-    <strong><a href="https://patents.google.com/patent/US20250110924A1/en">Systems and methods for executing jump-based content-defined chunking </strong></a> <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>US Patent and Trademark Office, September 2023</em></small>
-  </summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small>Abdelrahman Baba, <em>Sreeharsha Udayashankar</em>, Samer Al-Kiswany, Serg Bell and Stanislav Protasov</small><br>
- </details>
-
-  <br>
-<details> 
-  <summary> [4]
     <strong> <a href="https://patents.google.com/patent/US20250117249A1/en">Systems and methods for performing network-accelerated scheduling</a></strong> <br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>US Patent and Trademark Office, October 2023</em></small>
   </summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Samer Al-Kiswany, Serg Bell and Stanislav Protasov</small><br>
  </details>
+
+<br>
+<details> 
+  <summary> [3]
+    <strong> <a href="https://patents.google.com/patent/US20250209043A1/en">Systems and methods for sequence-based data chunking for deduplication</a></strong> <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>US Patent and Trademark Office, December 2023</em></small>
+  </summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Baba, Samer Al-Kiswany, Serg Bell and Stanislav Protasov</small><br>
+ </details>
+
+ <br>
+<strong><a href="https://sreeharshau.github.io/publications">+3 more</a></strong> 
 
 ## Scholarships and Awards
 <br>
