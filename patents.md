@@ -1,3 +1,9 @@
+This page lists all my patents by year. They can also be found on my [Google Scholar](https://scholar.google.ca/citations?user=6WkIqjkAAAAJ&hl=en) page.
+
+
+#### 2023
+---
+
 <details> 
   <summary> [6]
     <strong> <a href="https://patents.google.com/patent/US20250220036A1/en">Systems and methods for testing distributed systems using injected network partitions</a></strong> <br>
