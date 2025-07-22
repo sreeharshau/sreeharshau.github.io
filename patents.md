@@ -1,5 +1,6 @@
-This page lists all my patents by year. They can also be found on my [Google Scholar](https://scholar.google.ca/citations?user=6WkIqjkAAAAJ&hl=en) page.
+This page lists all my patents by year. They can also be found on my [Google Scholar](https://scholar.google.ca/citations?user=6WkIqjkAAAAJ&hl=en) profile.
 
+## Patents
 
 #### 2023
 ---
