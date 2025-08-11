@@ -47,7 +47,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.usenix.org/conference/nsdi24/presentation/alquraan"><img height="25" src="images/icon-link.png" /></a> <a href="papers/LoLKV_NSDI24.pdf"><img height="25" src="images/icon-pdf.png" /></a> <a href="papers/LoLKV_NSDI24_Slides.pdf"><img height="25" src="images/icon-slides.png" /></a> <a href="https://www.youtube.com/watch?v=mgJoHFi845c"><img height="25" src="images/icon-video.png" /></a><br>
 
 <br>
-<strong><a href="https://sreeharshau.github.io/publications">+13 more</a></strong> 
+<strong><a href="https://sreeharshau.github.io/publications">+14 more</a></strong> 
 
 <h2 style="text-align:center;">Selected Patents</h2>
 <hr>
