@@ -8,7 +8,7 @@ This page contains my full list of publications with links. They can also be fou
 
 <br>
 <details> <summary> [17]
-  <strong> Accelerating Data Chunking in Deduplication Systems using Vector Instructions </strong><br>
+  <strong> Accelerating Data Chunking using Vector Instructions </strong><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>arXiv Preprint, 2025</em></small>
   </summary> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small> 
