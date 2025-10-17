@@ -18,6 +18,25 @@ Here are a few images I've shot using my phone on some of my hikes:
 | :-------------------------: | :-------------------------: |
 ![](images/Cheltenham_Badlands.jpg)  |  ![](images/Skyline_CapeBreton.jpg)
 
+## United States Hiking
+
+| Yosemite National Park | Yosemite National Park |
+| :-------------------------: | :-------------------------: |
+![](images/VernalFalls_Yosemite.jpg)  |  ![](images/Tenaya_Yosemite.jpg)
+
+| Mammoth Lakes | Little Lakes Valley |
+| :-------------------------: | :-------------------------: |
+![](images/MammothLakes_California.jpg)  |  ![](images/LittleLakes_California.jpg)
+
+| Redwood National Park | Lake Tahoe |
+| :-------------------------: | :-------------------------: |
+![](images/Redwood_California.jpg)  |  ![](images/Tahoe_California.jpg)
+
+| Point Reyes National Seashore | Stebbins Cold Canyon Reserve |
+| :-------------------------: | :-------------------------: |
+![](images/PointReyes_California.jpg)  |  ![](images/Stebbins_ColdCanyon.jpg)
+
+
 
 ## Indian Hiking
 
