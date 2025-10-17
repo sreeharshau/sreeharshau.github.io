@@ -14,6 +14,11 @@ Here are a few images I've shot using my phone on some of my hikes:
 | :-------------------------: | :-------------------------: |
 ![](images/Flowerpot_Bruce.jpg)  |  ![](images/TrackTower_Algonquin.jpg)
 
+| Cheltenham Badlands | Cape Breton Highlands National Park |
+| :-------------------------: | :-------------------------: |
+![](images/Cheltenham_Badlands.jpg)  |  ![](images/Skyline_CapeBreton.jpg)
+
+
 ## Indian Hiking
 
 | BR Hills   |  Tadiandamol |
