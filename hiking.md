@@ -10,7 +10,7 @@ Here are a few images I've shot using my phone on some of my hikes:
 | :-------------------------: | :-------------------------: |
 ![Emerald Lake (_British Columbia_)](images/Emerald_Yoho.jpg)  |  ![The Grotto (_Ontario_)](images/Grotto_Bruce.jpg)
 
-| Bruce Peninsula National Park | Algonquin Provincial Park |
+| Fathom Five National Park | Algonquin Provincial Park |
 | :-------------------------: | :-------------------------: |
 ![](images/Flowerpot_Bruce.jpg)  |  ![](images/TrackTower_Algonquin.jpg)
 
