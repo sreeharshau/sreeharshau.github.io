@@ -40,6 +40,10 @@ Here are a few images I've shot using my phone on some of my hikes:
 
 ## Indian Hiking
 
+| Triund   |  Skandagiri |
+| :-------------------------: | :-------------------------: |
+![](images/Triund_Himachal.jpg)  |  ![](images/Skandagiri_Karnataka.jpg)
+
 | BR Hills   |  Tadiandamol |
 | :-------------------------: | :-------------------------: |
 ![](images/BRHills_2019.jpg)  |  ![](images/Tadiandamol_2019.jpg)
