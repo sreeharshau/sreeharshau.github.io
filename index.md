@@ -4,6 +4,8 @@
 
 <p style="text-align:justify;">During my PhD, I interned with the Liquid Graph database team at <a href="https://www.linkedin.com/">LinkedIn</a>. Before this, I worked at <a href="https://www.amd.com/en.html">AMD</a> for a few years on CPU performance (including the <a href="https://www.amd.com/en/products/processors/desktops/ryzen.html">Ryzen</a> series!).  I spent a few summers during my undergraduate studies interning at <a href="https://www.philips.com/global">Philips</a> and the <a href="https://iisc.ac.in/">Indian Institute of Science</a>.</p>
 
+<p style="text-align:justify;">On the side, I enjoy biking, <a href="https://sreeharshau.github.io/hiking">hiking</a>, and the outdoors.</p>
+
 <p style="text-align:center;"><a href="Sreeharsha_Resume.pdf"><img src="images/resume_icon.png" width=30></a> <a href="https://www.linkedin.com/in/sreeharshau/"><img src="images/linkedin_icon.png" width=42></a> <a href="https://scholar.google.ca/citations?user=6WkIqjkAAAAJ&hl=en"><img src="images/google_scholar_icon.png" width=42></a></p>
 
 
