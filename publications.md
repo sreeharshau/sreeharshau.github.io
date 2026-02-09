@@ -20,7 +20,7 @@ This page contains my full list of publications with links. They can also be fou
   <strong> Vectorized Sequence-Based Chunking for Data Deduplication </strong><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>IEEE Transactions on Parallel and Distributed Systems, 2026</em></small>
   </summary> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em> and Samer Al-Kiswany </small> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Ali Assem Mahmoud and Samer Al-Kiswany </small> 
 </details>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/document/11370935"><img height="25" src="images/icon-link.png" /></a> <a href="papers/VectorizedSeq_TPDS26.pdf"><img height="25" src="images/icon-pdf.png" /></a><br>
 
