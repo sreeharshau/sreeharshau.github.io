@@ -3,26 +3,29 @@ This page contains my full list of publications with links. They can also be fou
 
 <br>
 
-#### 2025 
+#### 2026
 ---
 
 <br>
 <details> <summary> [17]
   <strong> Accelerating Data Chunking using Vector Instructions </strong><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>arXiv Preprint, 2025</em></small>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>ACM Transactions on Storage, 2026</em></small>
   </summary> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small> 
 </details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/abs/2508.05797"><img height="25" src="images/icon-link.png" /></a> <a href="papers/VectorCDCExtended_arXiv25.pdf"><img height="25" src="images/icon-pdf.png" /></a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/abs/2508.05797"><img height="25" src="images/icon-link.png" /></a> <a href="papers/VectorCDC_ToS26.pdf"><img height="25" src="images/icon-pdf.png" /></a><br>
 
 <br>
 <details> <summary> [16]
   <strong> Vectorized Sequence-Based Chunking for Data Deduplication </strong><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>arXiv Preprint, 2025</em></small>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>IEEE Transactions on Parallel and Distributed Systems, 2026</em></small>
   </summary> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em> and Samer Al-Kiswany </small> 
 </details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/abs/2505.21194"><img height="25" src="images/icon-link.png" /></a> <a href="papers/VectorizedSeq_arXiv25.pdf"><img height="25" src="images/icon-pdf.png" /></a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/document/11370935"><img height="25" src="images/icon-link.png" /></a> <a href="papers/VectorizedSeq_TPDS26.pdf"><img height="25" src="images/icon-pdf.png" /></a><br>
+
+#### 2025 
+---
 
 <br>
 <details> <summary> [15]
