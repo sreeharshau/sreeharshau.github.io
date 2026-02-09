@@ -2,6 +2,26 @@ This page lists all my patents by year. They can also be found on my [Google Sch
 
 ## Patents
 
+#### 2025
+---
+
+<details> 
+  <summary> [8]
+    <strong> Systems and methods for accelerating hashless content-defined chunking using vector CPU instructions</a></strong> <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>US Patent and Trademark Office, June 2025</em></small>
+  </summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Baba, Samer Al-Kiswany, Serg Bell and Stanislav Protasov</small><br>
+ </details>
+
+<br>
+<details> 
+  <summary> [7]
+    <strong> Systems and methods for executing vectorized sequence-based data chunking</a></strong> <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>US Patent and Trademark Office, May 2025</em></small>
+  </summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Samer Al-Kiswany, Serg Bell and Stanislav Protasov</small><br>
+ </details>
+
 #### 2023
 ---
 
