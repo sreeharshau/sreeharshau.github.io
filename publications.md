@@ -13,7 +13,7 @@ This page contains my full list of publications with links. They can also be fou
   </summary> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>Sreeharsha Udayashankar</em>, Abdelrahman Baba and Samer Al-Kiswany </small> 
 </details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://arxiv.org/abs/2508.05797"><img height="25" src="images/icon-link.png" /></a> <a href="papers/VectorCDC_ToS26.pdf"><img height="25" src="images/icon-pdf.png" /></a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3797270"><img height="25" src="images/icon-link.png" /></a> <a href="papers/VectorCDC_ToS26.pdf"><img height="25" src="images/icon-pdf.png" /></a><a href="https://github.com/UWASL/dedup-bench"><img height="25" src="images/icon-code.png" /></a> <a href="https://www.kaggle.com/datasets/sreeharshau/vm-deb-fast25"><img height="25" src="images/icon-dataset.png" /></a><br>
 
 <br>
 <details> <summary> [16]
