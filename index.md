@@ -84,7 +84,7 @@
  </details>
 
  <br>
-<strong><a href="https://sreeharshau.github.io/patents">+3 more</a></strong> 
+<strong><a href="https://sreeharshau.github.io/patents">+5 more</a></strong> 
 
 <h2 style="text-align:center;">Scholarships and Awards</h2>
 <hr>
