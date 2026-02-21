@@ -6,7 +6,7 @@
 
 <p style="text-align:justify;">On the side, I enjoy biking, <a href="https://sreeharshau.github.io/hiking">hiking</a>, and the outdoors.</p>
 
-<p style="text-align:center;"><a href="Sreeharsha_Resume.pdf"><img src="images/resume_icon.png" width=30></a> <a href="https://www.linkedin.com/in/sreeharshau/"><img src="images/linkedin_icon.png" width=42></a> <a href="https://scholar.google.ca/citations?user=6WkIqjkAAAAJ&hl=en"><img src="images/google_scholar_icon.png" width=42></a></p>
+<p style="text-align:center;"><a href="Sreeharsha_Resume.pdf"><img src="images/resume_icon.png" width=30></a> <a href="Sreeharsha_CV.pdf"><img src="images/cv.png" width=30></a> <a href="https://www.linkedin.com/in/sreeharshau/"><img src="images/linkedin_icon.png" width=42></a> <a href="https://scholar.google.ca/citations?user=6WkIqjkAAAAJ&hl=en"><img src="images/google_scholar_icon.png" width=42></a></p>
 
 
 <h6>Updates</h6>
