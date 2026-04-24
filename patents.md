@@ -6,7 +6,7 @@ This page lists all my patents by year. They can also be found on my [Google Sch
 ---
 
 <details> 
-  <summary> [8]
+  <summary> [9]
     <strong> Systems and methods for vectorized word-sized chunking for data deduplication</a></strong> <br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><em>US Patent and Trademark Office, April 2026</em></small>
   </summary>
