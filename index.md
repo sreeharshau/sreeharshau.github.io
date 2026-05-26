@@ -12,10 +12,10 @@
 <h6>Updates</h6>
 
 ---
+* <small> <font style="color:gray"><b><em>May 2026</em>.</b></font> I have successfully defended my thesis and finished my PhD! </small>
 * <small> <font style="color:gray"><b><em>Sep 2025</em>.</b></font> I'll be presenting our work at the  <a href="https://cs.uwaterloo.ca/events/2025-cheriton-research-symposium">Cheriton Symposium</a>. </small>
 * <small> <font style="color:gray"><b><em>Aug 2025</em>.</b></font> VectorCDC is featured on the <a href="https://quantumzeitgeist.com/vectorcdc-accelerates-hashless-data-deduplication-throughput-by-up-to-26-2x/">Quantum Zeitgeist</a> tech magazine. </small>
 * <small> <font style="color:gray"><b><em>Mar 2025</em>.</b></font> I've been invited to present our deduplication work at the <a href="https://madsystems.cs.wisc.edu/seminar.html">Wisconsin Systems Seminar</a>. </small>
-* <small> <font style="color:gray"><b><em>Jan 2025</em>.</b></font> I have been awarded the <a href="https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship">Cheriton Graduate Scholarship</a> for 2024-2026! </small>
 ---
 
 <br>
